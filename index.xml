@@ -1,4 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>WoodnFab — Projects, Tools &amp; Knowledge on Wood 'n Fab</title><link>https://example.org/</link><description>Recent content in WoodnFab — Projects, Tools &amp; Knowledge on Wood 'n Fab</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 25 Jul 2025 10:47:45 +0200</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Rascal CNC</title><link>https://example.org/blog/2025-07-02_rascal-cnc/</link><pubDate>Fri, 25 Jul 2025 10:47:45 +0200</pubDate><guid>https://example.org/blog/2025-07-02_rascal-cnc/</guid><description>&lt;p>While browsing the web for information about &lt;a href="https://www.rootcnc.com/">ROOT CNC&lt;/a>, I came across an intriguing CNC design:&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>WoodnFab — Projects, Tools &amp; Knowledge on Wood 'n Fab</title><link>https://example.org/</link><description>Recent content in WoodnFab — Projects, Tools &amp; Knowledge on Wood 'n Fab</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml"/><item><title>2025-07-26 - CNC related links</title><link>https://example.org/daily-digest/2025-07-26_cnc_related/</link><pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate><guid>https://example.org/daily-digest/2025-07-26_cnc_related/</guid><description>&lt;p>An overview of interesting links from today.&lt;/p>
+&lt;h2 id="website--cnc-workflow-using-cncjs">Website – CNC Workflow Using CNCjs&lt;/h2>
+&lt;p>&lt;a href="https://makerhardware.net/knowledge-base/how-to-guides/cnc-workflow-using-cncjs/">https://makerhardware.net/knowledge-base/how-to-guides/cnc-workflow-using-cncjs/&lt;/a>&lt;/p>
+&lt;p>A helpful tutorial on using CNCjs for engraving.&lt;/p>
+&lt;h2 id="youtube--how-to-build-a-large-cnc-router-arduino-grbl--ugs">YouTube – How to Build a Large CNC Router (Arduino GRBL + UGS)&lt;/h2>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=DF_1bY8aJbc">https://www.youtube.com/watch?v=DF_1bY8aJbc&lt;/a>&lt;/p>
+&lt;p>A great build video showing how to create a large CNC router using an Arduino, GRBL, and Universal G-Code Sender (UGS).&lt;/p>
+&lt;p>&lt;strong>Highlighted comment:&lt;/strong>&lt;/p>
+&lt;blockquote>
+&lt;p>As somebody about to undertake building my own CNC router, this is the best video that breaks down the basic component design of the table. Mine will be different but this paints such a good picture for a starting point. Excellent work.&lt;/p></description></item><item><title>2025-07-26 - MPCNC related</title><link>https://example.org/daily-digest/2025-07-26_mpcnc/</link><pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate><guid>https://example.org/daily-digest/2025-07-26_mpcnc/</guid><description>&lt;p>An overview of interesting links from today.&lt;/p>
+&lt;h2 id="verkabelung-und-steuerung-der-mpcnc-eine-schritt-für-schritt-anleitung">Verkabelung und Steuerung der MPCNC: Eine Schritt-für-Schritt-Anleitung&lt;/h2>
+&lt;p>&lt;a href="https://konstruktionsbude.de/mpcnc-verkabelung-steuerung/">https://konstruktionsbude.de/mpcnc-verkabelung-steuerung/&lt;/a>&lt;/p>
+&lt;p>A German page detailing the control of an MPCNC using an Arduino-based setup.&lt;/p>
+&lt;p>Also additional information on the MPCNC:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://konstruktionsbude.de/mpcnc-primo/">https://konstruktionsbude.de/mpcnc-primo/&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://konstruktionsbude.de/mpcnc-primo-einkaufsliste/">https://konstruktionsbude.de/mpcnc-primo-einkaufsliste/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="mpcnc-part-3">MPCNC Part 3&lt;/h2>
+&lt;p>&lt;a href="https://coeleveld.com/mpcnc-part-3/">https://coeleveld.com/mpcnc-part-3/&lt;/a>&lt;/p>
+&lt;p>Build description of an MPCNC.&lt;/p>
+&lt;h2 id="mpcnc-primo--aktuelle-einkaufsliste-für-deutschland-2025">MPCNC Primo – aktuelle Einkaufsliste für Deutschland 2025&lt;/h2>
+&lt;p>&lt;a href="https://www.frag-matze.de/heimwerken-mpcnc-primo-2020-teileliste-einkaufsliste-deutsch-deutschland">https://www.frag-matze.de/heimwerken-mpcnc-primo-2020-teileliste-einkaufsliste-deutsch-deutschland&lt;/a>&lt;/p>
+&lt;p>A current (2025) parts list for the MPCNC in Germany.&lt;/p>
+&lt;h2 id="german-supplier-of-mpcnc-parts">German supplier of MPCNC parts&lt;/h2>
+&lt;p>&lt;a href="https://www.hoerr-edelstahl.de/Restposten-Schnaeppchen-sonstige-Artikel/Rohr-Set-25-mm-Edelstahl-fuer-PRIMO-mostly-printed-MPCNC-Stangen-Arbeitsbereich.html">https://www.hoerr-edelstahl.de/Restposten-Schnaeppchen-sonstige-Artikel/Rohr-Set-25-mm-Edelstahl-fuer-PRIMO-mostly-printed-MPCNC-Stangen-Arbeitsbereich.html&lt;/a>&lt;/p></description></item><item><title>Contextual Footnotes</title><link>https://example.org/memo/2025-07-26-contextual-footnodes/</link><pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate><guid>https://example.org/memo/2025-07-26-contextual-footnodes/</guid><description>&lt;p>Thinking about how blog posts could include lightweight digressions, like contextual footnotes&amp;hellip;&lt;/p></description></item><item><title>2025-07-25 - Rascal CNC</title><link>https://example.org/daily-digest/2025-07-25_rascal-cnc/</link><pubDate>Fri, 25 Jul 2025 10:47:45 +0200</pubDate><guid>https://example.org/daily-digest/2025-07-25_rascal-cnc/</guid><description>&lt;p>While browsing the web for information about &lt;a href="https://www.rootcnc.com/">ROOT CNC&lt;/a>, I came across an intriguing CNC design:&lt;/p>
 &lt;p>&lt;a href="https://www.nerdnic.com/rascal-cnc.html">Rascal CNC&lt;/a>&lt;/p>
 &lt;blockquote>
 &lt;p>The Rascal CNC is a hobby grade CNC machine designed BY the Community FOR the Community

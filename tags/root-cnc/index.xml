@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ROOT CNC on Wood 'n Fab</title><link>https://example.org/tags/root-cnc/</link><description>Recent content in ROOT CNC on Wood 'n Fab</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://example.org/tags/root-cnc/index.xml" rel="self" type="application/rss+xml"/><item><title>My ROOT CNC</title><link>https://example.org/memo/myrootcnc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/memo/myrootcnc/</guid><description>&lt;p>I recently bought a used ROOT CNC machine on the local marketplace.&lt;br>
+It needs some repairs — a few parts are broken — and it looks like the previous owner made some modifications.&lt;/p>
+&lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 310px">
+&lt;img class="card-img-top" src="https://example.org/memo/myrootcnc/featured-root_hu_33bd3fd66b5ea3ea.jpg" width="300" height="225">
+&lt;figcaption class="card-body px-0 pt-2 pb-0">
+&lt;p class="card-text">
+
+
+
+&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+
+&lt;p>This memo is a place to collect reference links and notes related to this machine.&lt;/p>
+&lt;hr>
+&lt;h3 id="-3d-printed-parts">🧩 3D Printed Parts&lt;/h3>
+&lt;h4 id="-z-carriage-system-for-root-3-cnc-or-similar-machines">📌 Z-Carriage System for ROOT 3 CNC (or similar machines)&lt;/h4>
+&lt;p>&lt;a href="https://www.thingiverse.com/thing:2778538">Thingiverse – Carriage Z System for 52mm &amp;amp; 65mm Spindle (in progress)&lt;/a>&lt;/p></description></item></channel></rss>

@@ -1,4 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ROOT CNC on Wood 'n Fab</title><link>https://example.org/tags/root-cnc/</link><description>Recent content in ROOT CNC on Wood 'n Fab</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://example.org/tags/root-cnc/index.xml" rel="self" type="application/rss+xml"/><item><title>My ROOT CNC</title><link>https://example.org/memo/myrootcnc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/memo/myrootcnc/</guid><description>&lt;p>I recently bought a used ROOT CNC machine on the local marketplace.&lt;br>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Root CNC on Wood 'n Fab</title><link>https://example.org/tags/root-cnc/</link><description>Recent content in Root CNC on Wood 'n Fab</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 28 Jul 2025 15:56:58 +0200</lastBuildDate><atom:link href="https://example.org/tags/root-cnc/index.xml" rel="self" type="application/rss+xml"/><item><title>Rootanika</title><link>https://example.org/memo/rootanikacnc/</link><pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate><guid>https://example.org/memo/rootanikacnc/</guid><description>&lt;h1 id="rootanika">Rootanika&lt;/h1>
+&lt;p>Rootanika is a fusion project between the open-source CNC machines of &lt;strong>Root CNC&lt;/strong> and &lt;strong>Mekanika CNC&lt;/strong>. The goal is to combine the best of both worlds into a modular, accessible, and powerful CNC machine for makers, hobbyists, and small workshops.&lt;/p>
+&lt;h2 id="project-goals">Project Goals&lt;/h2>
+&lt;ul>
+&lt;li>Combine the rigidity and strength of Root CNC with the user-friendly design and clean aesthetics of Mekanika CNC.&lt;/li>
+&lt;li>Design a fully customizable, belt-driven machine with a focus on reusable and accessible components.&lt;/li>
+&lt;li>Keep the target cost around €800 (excluding spindle and spoilboard), making it affordable without compromising performance.&lt;/li>
+&lt;li>Document everything open-source following the principles of both original projects.&lt;/li>
+&lt;/ul>
+&lt;h2 id="licensing">Licensing&lt;/h2>
+&lt;p>Rootanika follows the &lt;strong>Creative Commons BY-NC-SA 4.0&lt;/strong> license, same as its sources. This means:&lt;/p></description></item><item><title>My ROOT CNC</title><link>https://example.org/memo/myrootcnc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/memo/myrootcnc/</guid><description>&lt;p>I recently bought a used ROOT CNC machine on the local marketplace.&lt;br>
 It needs some repairs — a few parts are broken — and it looks like the previous owner made some modifications.&lt;/p>
 &lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 310px">
 &lt;img class="card-img-top" src="https://example.org/memo/myrootcnc/featured-root_hu_33bd3fd66b5ea3ea.jpg" width="300" height="225">

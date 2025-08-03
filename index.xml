@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>WoodnFab — Projects, Tools &amp; Knowledge on Wood 'n Fab</title><link>https://example.org/</link><description>Recent content in WoodnFab — Projects, Tools &amp; Knowledge on Wood 'n Fab</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Rootanika</title><link>https://example.org/memo/rootanikacnc/</link><pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate><guid>https://example.org/memo/rootanikacnc/</guid><description>&lt;h1 id="rootanika">Rootanika&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>WoodnFab — Projects, Tools &amp; Knowledge on Wood 'n Fab</title><link>https://example.org/</link><description>Recent content in WoodnFab — Projects, Tools &amp; Knowledge on Wood 'n Fab</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 03 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Rootanika</title><link>https://example.org/memo/rootanikacnc/</link><pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate><guid>https://example.org/memo/rootanikacnc/</guid><description>&lt;h1 id="rootanika">Rootanika&lt;/h1>
 &lt;p>Rootanika is a fusion project between the open-source CNC machines of &lt;strong>Root CNC&lt;/strong> and &lt;strong>Mekanika CNC&lt;/strong>. The goal is to combine the best of both worlds into a modular, accessible, and powerful CNC machine for makers, hobbyists, and small workshops.&lt;/p>
 &lt;h2 id="project-goals">Project Goals&lt;/h2>
 &lt;ul>
@@ -8,7 +8,18 @@
 &lt;li>Document everything open-source following the principles of both original projects.&lt;/li>
 &lt;/ul>
 &lt;h2 id="licensing">Licensing&lt;/h2>
-&lt;p>Rootanika follows the &lt;strong>Creative Commons BY-NC-SA 4.0&lt;/strong> license, same as its sources. This means:&lt;/p></description></item><item><title>2025-08-02 – CNC Related</title><link>https://example.org/daily-digest/2025-08-02_cnc_related/</link><pubDate>Sat, 02 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/daily-digest/2025-08-02_cnc_related/</guid><description>&lt;p>A quick look at some interesting CNC-related content I explored today.&lt;/p>
+&lt;p>Rootanika follows the &lt;strong>Creative Commons BY-NC-SA 4.0&lt;/strong> license, same as its sources. This means:&lt;/p></description></item><item><title>2025-08-03 – CNC Daily Digest</title><link>https://example.org/daily-digest/2025-08-03_cnc_related/</link><pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/daily-digest/2025-08-03_cnc_related/</guid><description>&lt;p>A quick look at some CNC-related content I explored today.&lt;/p>
+&lt;hr>
+&lt;h3 id="-rootcnc--overall-average-costs-for-complete-builds-ready-to-run">📊 RootCNC – Overall Average Costs for Complete Builds (Ready to Run)&lt;/h3>
+&lt;p>Discussion on RootCNC Discourse&lt;br>
+&lt;a href="https://rootcnc.discourse.group/t/overall-average-costs-for-complete-builds-ready-to-run/216">https://rootcnc.discourse.group/t/overall-average-costs-for-complete-builds-ready-to-run/216&lt;/a>&lt;/p>
+&lt;blockquote>
+&lt;p>but here is a rough costing for the machines:&lt;br>
+4 ~£1200 but mine is a considerably larger machine so saving can be made here!&lt;br>
+4 Lite £450-550&lt;br>
+3 Lite £450-530&lt;br>
+3 Unsure its been a while&lt;br>
+Root 2 is not recommended as the newer machine out perform it.&lt;/p></description></item><item><title>2025-08-02 – CNC Related</title><link>https://example.org/daily-digest/2025-08-02_cnc_related/</link><pubDate>Sat, 02 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/daily-digest/2025-08-02_cnc_related/</guid><description>&lt;p>A quick look at some interesting CNC-related content I explored today.&lt;/p>
 &lt;hr>
 &lt;h3 id="-youtube--openbuilds-lead-1515-electronics--software-using-blackbox">📺 YouTube – OpenBuilds LEAD 1515 Electronics &amp;amp; Software (Using BlackBox)&lt;/h3>
 &lt;p>&lt;a href="https://www.youtube.com/watch?v=xxyA5WftF8k">https://www.youtube.com/watch?v=xxyA5WftF8k&lt;/a>&lt;/p>
@@ -43,7 +54,7 @@ For more info check: &lt;a href="https://forum.makersupplies.dk/listin">https://
 &lt;p>A large-scale DIY CNC router made with V-slot profiles, driven by Estlcam and Arduino. Very affordable setup under €700.&lt;/p>
 &lt;hr>
 &lt;h3 id="-youtube--die-open-source-fräse-das-endchen">📺 YouTube – &lt;em>Die Open Source Fräse: Das Endchen&lt;/em>&lt;/h3>
-&lt;p>&lt;a href="https://www.youtube.com/watch?v=FVFT421XhG4">https://www.youtube.com/watch?v=FVFT421XhG4&lt;/a>&lt;/p></description></item><item><title>2025-07-26 - CNC related links</title><link>https://example.org/daily-digest/2025-07-26_cnc_related/</link><pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate><guid>https://example.org/daily-digest/2025-07-26_cnc_related/</guid><description>&lt;p>An overview of interesting links from today.&lt;/p>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=FVFT421XhG4">https://www.youtube.com/watch?v=FVFT421XhG4&lt;/a>&lt;/p></description></item><item><title>2025-07-26 - CNC Related</title><link>https://example.org/daily-digest/2025-07-26_cnc_related/</link><pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate><guid>https://example.org/daily-digest/2025-07-26_cnc_related/</guid><description>&lt;p>An overview of interesting links from today.&lt;/p>
 &lt;h2 id="website--cnc-workflow-using-cncjs">Website – CNC Workflow Using CNCjs&lt;/h2>
 &lt;p>&lt;a href="https://makerhardware.net/knowledge-base/how-to-guides/cnc-workflow-using-cncjs/">https://makerhardware.net/knowledge-base/how-to-guides/cnc-workflow-using-cncjs/&lt;/a>&lt;/p>
 &lt;p>A helpful tutorial on using CNCjs for engraving.&lt;/p>
@@ -68,7 +79,7 @@ For more info check: &lt;a href="https://forum.makersupplies.dk/listin">https://
 &lt;p>&lt;a href="https://www.frag-matze.de/heimwerken-mpcnc-primo-2020-teileliste-einkaufsliste-deutsch-deutschland">https://www.frag-matze.de/heimwerken-mpcnc-primo-2020-teileliste-einkaufsliste-deutsch-deutschland&lt;/a>&lt;/p>
 &lt;p>A current (2025) parts list for the MPCNC in Germany.&lt;/p>
 &lt;h2 id="german-supplier-of-mpcnc-parts">German supplier of MPCNC parts&lt;/h2>
-&lt;p>&lt;a href="https://www.hoerr-edelstahl.de/Restposten-Schnaeppchen-sonstige-Artikel/Rohr-Set-25-mm-Edelstahl-fuer-PRIMO-mostly-printed-MPCNC-Stangen-Arbeitsbereich.html">https://www.hoerr-edelstahl.de/Restposten-Schnaeppchen-sonstige-Artikel/Rohr-Set-25-mm-Edelstahl-fuer-PRIMO-mostly-printed-MPCNC-Stangen-Arbeitsbereich.html&lt;/a>&lt;/p></description></item><item><title>2025-07-25 - Rascal CNC</title><link>https://example.org/daily-digest/2025-07-25_rascal-cnc/</link><pubDate>Fri, 25 Jul 2025 10:47:45 +0200</pubDate><guid>https://example.org/daily-digest/2025-07-25_rascal-cnc/</guid><description>&lt;p>While browsing the web for information about &lt;a href="https://www.rootcnc.com/">ROOT CNC&lt;/a>, I came across an intriguing CNC design:&lt;/p>
+&lt;p>&lt;a href="https://www.hoerr-edelstahl.de/Restposten-Schnaeppchen-sonstige-Artikel/Rohr-Set-25-mm-Edelstahl-fuer-PRIMO-mostly-printed-MPCNC-Stangen-Arbeitsbereich.html">https://www.hoerr-edelstahl.de/Restposten-Schnaeppchen-sonstige-Artikel/Rohr-Set-25-mm-Edelstahl-fuer-PRIMO-mostly-printed-MPCNC-Stangen-Arbeitsbereich.html&lt;/a>&lt;/p></description></item><item><title>2025-07-25 - Rascal CNC</title><link>https://example.org/daily-digest/2025-07-25_rascal-cnc/</link><pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate><guid>https://example.org/daily-digest/2025-07-25_rascal-cnc/</guid><description>&lt;p>While browsing the web for information about &lt;a href="https://www.rootcnc.com/">ROOT CNC&lt;/a>, I came across an intriguing CNC design:&lt;/p>
 &lt;p>&lt;a href="https://www.nerdnic.com/rascal-cnc.html">Rascal CNC&lt;/a>&lt;/p>
 &lt;blockquote>
 &lt;p>The Rascal CNC is a hobby grade CNC machine designed BY the Community FOR the Community

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>CNC on Wood 'n Fab</title><link>https://example.org/tags/cnc/</link><description>Recent content in CNC on Wood 'n Fab</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 03 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/cnc/index.xml" rel="self" type="application/rss+xml"/><item><title>Rootanika</title><link>https://example.org/memo/rootanikacnc/</link><pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate><guid>https://example.org/memo/rootanikacnc/</guid><description>&lt;h1 id="rootanika">Rootanika&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>CNC on Wood 'n Fab</title><link>https://example.org/tags/cnc/</link><description>Recent content in CNC on Wood 'n Fab</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 04 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/cnc/index.xml" rel="self" type="application/rss+xml"/><item><title>Rootanika</title><link>https://example.org/memo/rootanikacnc/</link><pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate><guid>https://example.org/memo/rootanikacnc/</guid><description>&lt;h1 id="rootanika">Rootanika&lt;/h1>
 &lt;p>Rootanika is a fusion project between the open-source CNC machines of &lt;strong>Root CNC&lt;/strong> and &lt;strong>Mekanika CNC&lt;/strong>. The goal is to combine the best of both worlds into a modular, accessible, and powerful CNC machine for makers, hobbyists, and small workshops.&lt;/p>
 &lt;h2 id="project-goals">Project Goals&lt;/h2>
 &lt;ul>
@@ -8,7 +8,33 @@
 &lt;li>Document everything open-source following the principles of both original projects.&lt;/li>
 &lt;/ul>
 &lt;h2 id="licensing">Licensing&lt;/h2>
-&lt;p>Rootanika follows the &lt;strong>Creative Commons BY-NC-SA 4.0&lt;/strong> license, same as its sources. This means:&lt;/p></description></item><item><title>2025-08-03 – CNC Daily Digest</title><link>https://example.org/daily-digest/2025-08-03_cnc_related/</link><pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/daily-digest/2025-08-03_cnc_related/</guid><description>&lt;p>A quick look at some CNC-related content I explored today.&lt;/p>
+&lt;p>Rootanika follows the &lt;strong>Creative Commons BY-NC-SA 4.0&lt;/strong> license, same as its sources. This means:&lt;/p></description></item><item><title>2025-08-04 – CNC Related</title><link>https://example.org/daily-digest/2025-08-04_cnc_related/</link><pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/daily-digest/2025-08-04_cnc_related/</guid><description>&lt;p>A quick look at some CNC-related content I explored today.&lt;/p>
+&lt;hr>
+&lt;h3 id="-youtube--150-cnc-plasma-table-build--easy-quick-and-cost-effective">🔥 YouTube – £150 CNC Plasma Table Build – Easy, Quick and Cost Effective&lt;/h3>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=xVZZfx9KPlc">https://www.youtube.com/watch?v=xVZZfx9KPlc&lt;/a>&lt;/p>
+&lt;p>Next-level metal cutting.&lt;br>
+I especially liked the use of a tablet and the clear G-code explanation.&lt;/p>
+&lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 330px">
+ 
+ &lt;a href="https://www.youtube.com/watch?v=xVZZfx9KPlc" target="_blank" rel="noopener">
+ 
+ &lt;img class="card-img-top" src="https://example.org/daily-digest/2025-08-04_cnc_related/plasma_hu_2e44c9ec13505305.jpg" width="320" height="180">
+ 
+ &lt;/a>
+ 
+ &lt;figcaption class="card-body px-0 pt-2 pb-0">
+ &lt;p class="card-text">
+ 
+&lt;small class="text-body-secondary">&lt;br/>Photo: youtube.com&lt;/small>
+ &lt;/p>
+ &lt;/figcaption>
+ &lt;/figure>
+
+&lt;hr>
+&lt;h3 id="-youtube--topscnc-heavy--the-big-3d-printed-cnc-diy">🖨️ YouTube – TopsCNC Heavy – The Big 3D Printed CNC DIY&lt;/h3>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=wIgIz47WK7Y">https://www.youtube.com/watch?v=wIgIz47WK7Y&lt;/a>&lt;/p>
+&lt;p>Nice printed CNC and a great build video.&lt;br>
+Good for design inspiration.&lt;/p></description></item><item><title>2025-08-03 – CNC Related</title><link>https://example.org/daily-digest/2025-08-03_cnc_related/</link><pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/daily-digest/2025-08-03_cnc_related/</guid><description>&lt;p>A quick look at some CNC-related content I explored today.&lt;/p>
 &lt;hr>
 &lt;h3 id="-rootcnc--overall-average-costs-for-complete-builds-ready-to-run">📊 RootCNC – Overall Average Costs for Complete Builds (Ready to Run)&lt;/h3>
 &lt;p>Discussion on RootCNC Discourse&lt;br>

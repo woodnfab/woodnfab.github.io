@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Root CNC on Wood 'n Fab</title><link>https://example.org/docs/tools/rootcnc/</link><description>Recent content in Root CNC on Wood 'n Fab</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://example.org/docs/tools/rootcnc/index.xml" rel="self" type="application/rss+xml"/><item><title>Specifications</title><link>https://example.org/docs/tools/rootcnc/specs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/tools/rootcnc/specs/</guid><description>&lt;p>This page contains technical specifications of the Root CNC.&lt;/p>
+&lt;h1 id="stepper-motors">Stepper Motors&lt;/h1>
+&lt;p>ACT MOTOR 23HS6620B 1.8 2.0A&lt;br>
+Axis 6.35&lt;/p>
+&lt;p>&lt;a href="https://example.org/datasheet/tools/rootcnc/ACT_MOTOR_23HS6620B.jpg">datasheet&lt;/a>&lt;/p>
+&lt;p>[&lt;img src="https://example.org/images/tools/rootcnc/nmea23.jpg" alt="NMEA23">]&lt;/p>
+&lt;p>JKONGMOTOR JK42HS48-1684-08AF&lt;br>
+Axis 4.5mm&lt;/p>
+&lt;p>&lt;a href="https://example.org/datasheet/tools/rootcnc/JK42HS48-1684-08AF.pdf">datasheet&lt;/a>&lt;/p>
+&lt;p>[&lt;img src="https://example.org/images/tools/rootcnc/nmea17.jpg" alt="NMEA17">]&lt;/p></description></item></channel></rss>

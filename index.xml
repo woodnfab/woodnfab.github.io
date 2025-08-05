@@ -8,7 +8,31 @@
 &lt;li>Document everything open-source following the principles of both original projects.&lt;/li>
 &lt;/ul>
 &lt;h2 id="licensing">Licensing&lt;/h2>
-&lt;p>Rootanika follows the &lt;strong>Creative Commons BY-NC-SA 4.0&lt;/strong> license, same as its sources. This means:&lt;/p></description></item><item><title>2025-08-05 – CNC Related</title><link>https://example.org/daily-digest/2025-08-05_cnc_related/</link><pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/daily-digest/2025-08-05_cnc_related/</guid><description>&lt;p>A quick look at some CNC-related content I explored today.&lt;/p>
+&lt;p>Rootanika follows the &lt;strong>Creative Commons BY-NC-SA 4.0&lt;/strong> license, same as its sources. This means:&lt;/p></description></item><item><title>2025-08-04 – Blender AI</title><link>https://example.org/blog/2025-08-05_blender_ai/</link><pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/blog/2025-08-05_blender_ai/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>I&amp;rsquo;m exploring ways to model my ideas for a CNC machine.&lt;br>
+While searching, I came across this video:&lt;/p>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=x60zHw_z4NM">https://www.youtube.com/watch?v=x60zHw_z4NM&lt;/a>&lt;/p>
+&lt;p>It introduces an interesting workflow that combines ChatGPT with Blender.&lt;/p>
+&lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 330px">
+ 
+ &lt;a href="https://www.youtube.com/watch?v=x60zHw_z4NM" target="_blank" rel="noopener">
+ 
+ &lt;img class="card-img-top" src="https://example.org/blog/2025-08-05_blender_ai/youtube_hu_50527c22945d7bed.jpg" width="320" height="180">
+ 
+ &lt;/a>
+ 
+ &lt;figcaption class="card-body px-0 pt-2 pb-0">
+ &lt;p class="card-text">
+ 
+&lt;small class="text-body-secondary">&lt;br/>Photo: youtube.com&lt;/small>
+ &lt;/p>
+ &lt;/figcaption>
+ &lt;/figure>
+
+&lt;p>To start experimenting, I want to see if we can model a base frame using 30‑series aluminium profiles.&lt;/p>
+&lt;p>For additional Blender inspiration, I also found this tutorial:&lt;br>
+&lt;a href="https://www.rab3d.com/tut_blender.php">https://www.rab3d.com/tut_blender.php&lt;/a>&lt;/p>
+&lt;p>Hopefully, the creator will continue to update his progress on this approach.&lt;/p></description></item><item><title>2025-08-05 – CNC Related</title><link>https://example.org/daily-digest/2025-08-05_cnc_related/</link><pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/daily-digest/2025-08-05_cnc_related/</guid><description>&lt;p>A quick look at some CNC-related content I explored today.&lt;/p>
 &lt;hr>
 &lt;h3 id="-youtube--diy-cnc-your-questions-answered-and-what-id-do-differently">🔥 YouTube – DIY CNC: Your Questions Answered (and What I’d Do Differently)&lt;/h3>
 &lt;p>&lt;a href="https://www.youtube.com/watch?v=nlWXileUSbU">https://www.youtube.com/watch?v=nlWXileUSbU&lt;/a>&lt;/p>
@@ -40,31 +64,7 @@ I especially liked the use of a tablet and the clear G-code explanation.&lt;/p>
 &lt;h3 id="-youtube--topscnc-heavy--the-big-3d-printed-cnc-diy">🖨️ YouTube – TopsCNC Heavy – The Big 3D Printed CNC DIY&lt;/h3>
 &lt;p>&lt;a href="https://www.youtube.com/watch?v=wIgIz47WK7Y">https://www.youtube.com/watch?v=wIgIz47WK7Y&lt;/a>&lt;/p>
 &lt;p>Nice printed CNC and a great build video.&lt;br>
-Good for design inspiration.&lt;/p></description></item><item><title>2025-08-03 – Blender AI</title><link>https://example.org/blog/2025-08-05_blender_ai/</link><pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/blog/2025-08-05_blender_ai/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
-&lt;p>I&amp;rsquo;m exploring ways to model my ideas for a CNC machine.&lt;br>
-While searching, I came across this video:&lt;/p>
-&lt;p>&lt;a href="https://www.youtube.com/watch?v=x60zHw_z4NM">https://www.youtube.com/watch?v=x60zHw_z4NM&lt;/a>&lt;/p>
-&lt;p>It introduces an interesting workflow that combines ChatGPT with Blender.&lt;/p>
-&lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 330px">
- 
- &lt;a href="https://www.youtube.com/watch?v=x60zHw_z4NM" target="_blank" rel="noopener">
- 
- &lt;img class="card-img-top" src="https://example.org/blog/2025-08-05_blender_ai/youtube_hu_50527c22945d7bed.jpg" width="320" height="180">
- 
- &lt;/a>
- 
- &lt;figcaption class="card-body px-0 pt-2 pb-0">
- &lt;p class="card-text">
- 
-&lt;small class="text-body-secondary">&lt;br/>Photo: youtube.com&lt;/small>
- &lt;/p>
- &lt;/figcaption>
- &lt;/figure>
-
-&lt;p>To start experimenting, I want to see if we can model a base frame using 30‑series aluminium profiles.&lt;/p>
-&lt;p>For additional Blender inspiration, I also found this tutorial:&lt;br>
-&lt;a href="https://www.rab3d.com/tut_blender.php">https://www.rab3d.com/tut_blender.php&lt;/a>&lt;/p>
-&lt;p>Hopefully, the creator will continue to update his progress on this approach.&lt;/p></description></item><item><title>2025-08-03 – CNC Related</title><link>https://example.org/daily-digest/2025-08-03_cnc_related/</link><pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/daily-digest/2025-08-03_cnc_related/</guid><description>&lt;p>A quick look at some CNC-related content I explored today.&lt;/p>
+Good for design inspiration.&lt;/p></description></item><item><title>2025-08-03 – CNC Related</title><link>https://example.org/daily-digest/2025-08-03_cnc_related/</link><pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/daily-digest/2025-08-03_cnc_related/</guid><description>&lt;p>A quick look at some CNC-related content I explored today.&lt;/p>
 &lt;hr>
 &lt;h3 id="-rootcnc--overall-average-costs-for-complete-builds-ready-to-run">📊 RootCNC – Overall Average Costs for Complete Builds (Ready to Run)&lt;/h3>
 &lt;p>Discussion on RootCNC Discourse&lt;br>

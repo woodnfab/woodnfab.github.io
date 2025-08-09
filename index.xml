@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>WoodnFab — Projects, Tools &amp; Knowledge on Wood 'n Fab</title><link>https://example.org/</link><description>Recent content in WoodnFab — Projects, Tools &amp; Knowledge on Wood 'n Fab</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 05 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Rootanika</title><link>https://example.org/memo/rootanikacnc/</link><pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate><guid>https://example.org/memo/rootanikacnc/</guid><description>&lt;h1 id="rootanika">Rootanika&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>WoodnFab — Projects, Tools &amp; Knowledge on Wood 'n Fab</title><link>https://example.org/</link><description>Recent content in WoodnFab — Projects, Tools &amp; Knowledge on Wood 'n Fab</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 09 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Rootanika</title><link>https://example.org/memo/rootanikacnc/</link><pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate><guid>https://example.org/memo/rootanikacnc/</guid><description>&lt;h1 id="rootanika">Rootanika&lt;/h1>
 &lt;p>Rootanika is a fusion project between the open-source CNC machines of &lt;strong>Root CNC&lt;/strong> and &lt;strong>Mekanika CNC&lt;/strong>. The goal is to combine the best of both worlds into a modular, accessible, and powerful CNC machine for makers, hobbyists, and small workshops.&lt;/p>
 &lt;h2 id="project-goals">Project Goals&lt;/h2>
 &lt;ul>
@@ -8,7 +8,24 @@
 &lt;li>Document everything open-source following the principles of both original projects.&lt;/li>
 &lt;/ul>
 &lt;h2 id="licensing">Licensing&lt;/h2>
-&lt;p>Rootanika follows the &lt;strong>Creative Commons BY-NC-SA 4.0&lt;/strong> license, same as its sources. This means:&lt;/p></description></item><item><title>2025-08-04 – Blender AI</title><link>https://example.org/blog/2025-08-05_blender_ai/</link><pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/blog/2025-08-05_blender_ai/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>Rootanika follows the &lt;strong>Creative Commons BY-NC-SA 4.0&lt;/strong> license, same as its sources. This means:&lt;/p></description></item><item><title>2025-08-09 – Design Ideas</title><link>https://example.org/daily-digest/2025-08-09_design_ideas/</link><pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/daily-digest/2025-08-09_design_ideas/</guid><description>&lt;p>💡 &lt;strong>Some design ideas I came across just for inspiration.&lt;/strong>&lt;/p>
+&lt;hr>
+&lt;h3 id="-pinterest--wood-pc-systems">🖼 Pinterest – Wood PC Systems&lt;/h3>
+&lt;p>Simple wooden PC setups — could be an idea for the CNC power supply housing.&lt;/p>
+&lt;p>&lt;a href="https://mx.pinterest.com/pin/93168286035928711/">https://mx.pinterest.com/pin/93168286035928711/&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://i.pinimg.com/70x/bd/4d/88/bd4d88a535094b9f26664ee2822ecd90.jpg" alt="Wood PC System">&lt;br>
+&lt;em>Photo: Pinterest&lt;/em>&lt;/p>
+&lt;hr>
+&lt;h3 id="-pinterest--rino-belt-drive">⚙ Pinterest – Rino Belt Drive&lt;/h3>
+&lt;p>Example of a large-format CNC router belt drive.&lt;/p>
+&lt;p>&lt;a href="https://mx.pinterest.com/pin/560416747404184089/">https://mx.pinterest.com/pin/560416747404184089/&lt;/a>&lt;/p>
+&lt;p>Also described on Instructables:&lt;br>
+&lt;a href="https://www.instructables.com/Rino-Rout-Belt-Drive-Large-Format-CNC-Router/">https://www.instructables.com/Rino-Rout-Belt-Drive-Large-Format-CNC-Router/&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://i.pinimg.com/70x/24/57/e2/2457e2ed1a9375a6c7fad7eda469f242.jpg" alt="Rino Belt Drive">&lt;br>
+&lt;em>Photo: Pinterest&lt;/em>&lt;/p>
+&lt;hr>
+&lt;h3 id="-pinterest--cnc-pins-overview">📌 Pinterest – CNC Pins Overview&lt;/h3>
+&lt;p>Nice collection of CNC-related pins from other makers:&lt;/p></description></item><item><title>2025-08-04 – Blender AI</title><link>https://example.org/blog/2025-08-05_blender_ai/</link><pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/blog/2025-08-05_blender_ai/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
 &lt;p>I&amp;rsquo;m exploring ways to model my ideas for a CNC machine.&lt;br>
 While searching, I came across this video:&lt;/p>
 &lt;p>&lt;a href="https://www.youtube.com/watch?v=x60zHw_z4NM">https://www.youtube.com/watch?v=x60zHw_z4NM&lt;/a>&lt;/p>

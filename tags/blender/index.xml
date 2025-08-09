@@ -1,25 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blender on Wood 'n Fab</title><link>https://example.org/tags/blender/</link><description>Recent content in Blender on Wood 'n Fab</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 05 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/blender/index.xml" rel="self" type="application/rss+xml"/><item><title>2025-08-04 – Blender AI</title><link>https://example.org/blog/2025-08-05_blender_ai/</link><pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/blog/2025-08-05_blender_ai/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
-&lt;p>I&amp;rsquo;m exploring ways to model my ideas for a CNC machine.&lt;br>
-While searching, I came across this video:&lt;/p>
-&lt;p>&lt;a href="https://www.youtube.com/watch?v=x60zHw_z4NM">https://www.youtube.com/watch?v=x60zHw_z4NM&lt;/a>&lt;/p>
-&lt;p>It introduces an interesting workflow that combines ChatGPT with Blender.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blender on Wood 'n Fab</title><link>https://example.org/tags/blender/</link><description>Recent content in Blender on Wood 'n Fab</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 09 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/blender/index.xml" rel="self" type="application/rss+xml"/><item><title>2025-08-09 – Blender AI Conclusion</title><link>https://example.org/blog/2025-08-09_blender_ai_conclusion/</link><pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/blog/2025-08-09_blender_ai_conclusion/</guid><description>&lt;h2 id="-introduction">🛠️ Introduction&lt;/h2>
+&lt;p>I’m exploring ways to model my ideas for a CNC machine.&lt;/p>
+&lt;p>In a &lt;a href="https://example.org/blog/2025-08-05_blender_ai">previous blog&lt;/a> I experimented with AI and Blender to create an aluminium frame.&lt;br>
+I chose Blender because AI could generate Python scripts for it.&lt;/p>
+&lt;p>During my research, I discovered that FreeCAD also supports Python scripting.&lt;br>
+Although Blender can be used for CAD-like tasks and 3D design, I think FreeCAD might be a better fit for my next steps.&lt;/p></description></item><item><title>2025-08-04 – Blender AI</title><link>https://example.org/blog/2025-08-05_blender_ai/</link><pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/blog/2025-08-05_blender_ai/</guid><description>&lt;h2 id="-introduction">🛠️ Introduction&lt;/h2>
+&lt;p>I’m exploring ways to model my ideas for a CNC machine.
+While searching, I came across this 🎥 &lt;a href="https://www.youtube.com/watch?v=x60zHw_z4NM">YouTube video&lt;/a> introducing an interesting workflow that combines ChatGPT with Blender.&lt;/p>
 &lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 330px">
  
- &lt;a href="https://www.youtube.com/watch?v=x60zHw_z4NM" target="_blank" rel="noopener">
+ &lt;a href="#ZgotmplZ" target="_blank" rel="noopener">
  
  &lt;img class="card-img-top" src="https://example.org/blog/2025-08-05_blender_ai/youtube_hu_50527c22945d7bed.jpg" width="320" height="180">
  
  &lt;/a>
  
- &lt;figcaption class="card-body px-0 pt-2 pb-0">
- &lt;p class="card-text">
- 
-&lt;small class="text-body-secondary">&lt;br/>Photo: youtube.com&lt;/small>
- &lt;/p>
- &lt;/figcaption>
  &lt;/figure>
 
-&lt;p>To start experimenting, I want to see if we can model a base frame using 30‑series aluminium profiles.&lt;/p>
-&lt;p>For additional Blender inspiration, I also found this tutorial:&lt;br>
-&lt;a href="https://www.rab3d.com/tut_blender.php">https://www.rab3d.com/tut_blender.php&lt;/a>&lt;/p>
-&lt;p>Hopefully, the creator will continue to update his progress on this approach.&lt;/p></description></item></channel></rss>
+&lt;p>To start experimenting, I want to see if I can model a base frame using &lt;strong>30-series aluminium profiles&lt;/strong>.&lt;/p>
+&lt;p>For additional Blender inspiration, I also found this 📝 &lt;a href="https://www.rab3d.com/tut_blender.php">Rab3D tutorial&lt;/a>.
+Hopefully, the creator will continue updating his progress.&lt;/p></description></item></channel></rss>

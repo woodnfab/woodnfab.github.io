@@ -3,7 +3,27 @@
 &lt;p>In a &lt;a href="https://example.org/blog/2025-08-05_blender_ai">previous blog&lt;/a> I experimented with AI and Blender to create an aluminium frame.&lt;br>
 I chose Blender because AI could generate Python scripts for it.&lt;/p>
 &lt;p>During my research, I discovered that FreeCAD also supports Python scripting.&lt;br>
-Although Blender can be used for CAD-like tasks and 3D design, I think FreeCAD might be a better fit for my next steps.&lt;/p></description></item><item><title>2025-08-04 – Blender AI</title><link>https://example.org/blog/2025-08-05_blender_ai/</link><pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/blog/2025-08-05_blender_ai/</guid><description>&lt;h2 id="-introduction">🛠️ Introduction&lt;/h2>
+Although Blender can be used for CAD-like tasks and 3D design, I think FreeCAD might be a better fit for my next steps.&lt;/p></description></item><item><title>2025-08-XX – freecad</title><link>https://example.org/blog/2025-08-xx_freecad/</link><pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/blog/2025-08-xx_freecad/</guid><description>&lt;h2 id="-introduction">🛠️ Introduction&lt;/h2>
+&lt;p>I’m exploring ways to model my ideas for a CNC machine.&lt;/p>
+&lt;p>So i was triggered by the idea of using AI for my design.
+Which orignially led to the combination of Ai, pythin and blender.&lt;/p>
+&lt;p>Now i want to explore the idea&amp;rsquo;s of using freeCAD&lt;/p>
+&lt;hr>
+&lt;h3 id="-youtube--links">🏗️ YouTube – Links&lt;/h3>
+&lt;p>Already some links i found which might be interestingen.&lt;/p>
+&lt;p>FreeCAD CNC series. Aluminum extrusion modelling tutorial.&lt;/p>
+&lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 330px">
+ 
+ &lt;a href="https://www.youtube.com/watch?v=TqenXfqva5c" target="_blank" rel="noopener">
+ 
+ &lt;img class="card-img-top" src="https://example.org/blog/2025-08-xx_freecad/alu_extrution_hu_edf42aff6ac7c912.jpg" width="320" height="180">
+ 
+ &lt;/a>
+ 
+ &lt;/figure>
+
+&lt;p>FreeCAD Part Scripting in Python Episode 025
+&lt;a href="https://www.youtube.com/watch?v=yp6yBTcdcII">https://www.youtube.com/watch?v=yp6yBTcdcII&lt;/a>&lt;/p></description></item><item><title>2025-08-04 – Blender AI</title><link>https://example.org/blog/2025-08-05_blender_ai/</link><pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/blog/2025-08-05_blender_ai/</guid><description>&lt;h2 id="-introduction">🛠️ Introduction&lt;/h2>
 &lt;p>I’m exploring ways to model my ideas for a CNC machine.
 While searching, I came across this 🎥 &lt;a href="https://www.youtube.com/watch?v=x60zHw_z4NM">YouTube video&lt;/a> introducing an interesting workflow that combines ChatGPT with Blender.&lt;/p>
 &lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 330px">

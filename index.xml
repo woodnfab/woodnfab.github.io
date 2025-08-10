@@ -30,7 +30,27 @@ Although Blender can be used for CAD-like tasks and 3D design, I think FreeCAD m
 &lt;em>Photo: Pinterest&lt;/em>&lt;/p>
 &lt;hr>
 &lt;h3 id="-pinterest--cnc-pins-overview">📌 Pinterest – CNC Pins Overview&lt;/h3>
-&lt;p>Nice collection of CNC-related pins from other makers:&lt;/p></description></item><item><title>2025-08-04 – Blender AI</title><link>https://example.org/blog/2025-08-05_blender_ai/</link><pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/blog/2025-08-05_blender_ai/</guid><description>&lt;h2 id="-introduction">🛠️ Introduction&lt;/h2>
+&lt;p>Nice collection of CNC-related pins from other makers:&lt;/p></description></item><item><title>2025-08-XX – freecad</title><link>https://example.org/blog/2025-08-xx_freecad/</link><pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/blog/2025-08-xx_freecad/</guid><description>&lt;h2 id="-introduction">🛠️ Introduction&lt;/h2>
+&lt;p>I’m exploring ways to model my ideas for a CNC machine.&lt;/p>
+&lt;p>So i was triggered by the idea of using AI for my design.
+Which orignially led to the combination of Ai, pythin and blender.&lt;/p>
+&lt;p>Now i want to explore the idea&amp;rsquo;s of using freeCAD&lt;/p>
+&lt;hr>
+&lt;h3 id="-youtube--links">🏗️ YouTube – Links&lt;/h3>
+&lt;p>Already some links i found which might be interestingen.&lt;/p>
+&lt;p>FreeCAD CNC series. Aluminum extrusion modelling tutorial.&lt;/p>
+&lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 330px">
+ 
+ &lt;a href="https://www.youtube.com/watch?v=TqenXfqva5c" target="_blank" rel="noopener">
+ 
+ &lt;img class="card-img-top" src="https://example.org/blog/2025-08-xx_freecad/alu_extrution_hu_edf42aff6ac7c912.jpg" width="320" height="180">
+ 
+ &lt;/a>
+ 
+ &lt;/figure>
+
+&lt;p>FreeCAD Part Scripting in Python Episode 025
+&lt;a href="https://www.youtube.com/watch?v=yp6yBTcdcII">https://www.youtube.com/watch?v=yp6yBTcdcII&lt;/a>&lt;/p></description></item><item><title>2025-08-04 – Blender AI</title><link>https://example.org/blog/2025-08-05_blender_ai/</link><pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/blog/2025-08-05_blender_ai/</guid><description>&lt;h2 id="-introduction">🛠️ Introduction&lt;/h2>
 &lt;p>I’m exploring ways to model my ideas for a CNC machine.
 While searching, I came across this 🎥 &lt;a href="https://www.youtube.com/watch?v=x60zHw_z4NM">YouTube video&lt;/a> introducing an interesting workflow that combines ChatGPT with Blender.&lt;/p>
 &lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 330px">
@@ -159,7 +179,21 @@ For the cost you won&amp;rsquo;t find a better suited machine to cut foam board 
 &lt;p>&lt;a href="https://www.thingiverse.com/thing:7092560">https://www.thingiverse.com/thing:7092560&lt;/a>&lt;/p></description></item><item><title>Electronic casings</title><link>https://example.org/memo/boxdesign/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/memo/boxdesign/</guid><description>&lt;p>One of things i want to have more experience with 3d printing is to better manufacter and also created electronix boxes.&lt;/p>
 &lt;hr>
 &lt;h3 id="-the-ultimate-box-maker">📌 The Ultimate Box Maker&lt;/h3>
-&lt;p>&lt;a href="https://www.thingiverse.com/thing:1264391">Thingiverse – Box Maker&lt;/a>&lt;/p></description></item><item><title>My ROOT CNC</title><link>https://example.org/memo/myrootcnc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/memo/myrootcnc/</guid><description>&lt;p>I recently bought a used ROOT CNC machine on the local marketplace.&lt;br>
+&lt;p>&lt;a href="https://www.thingiverse.com/thing:1264391">Thingiverse – Box Maker&lt;/a>&lt;/p></description></item><item><title>MindSparx Full-Size CNC</title><link>https://example.org/docs/knowledgebase/cnc/diy/inspiration/mindsparx/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/knowledgebase/cnc/diy/inspiration/mindsparx/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=iIKaBGbAQsc">Watch the video&lt;/a>&lt;/p>
+&lt;p>This project shows how to build a &lt;strong>full-size, powerful, and fast CNC machine&lt;/strong> for around &lt;strong>€500&lt;/strong>. With smart component choices and an efficient design, it’s an achievable project for many DIY builders.&lt;/p>
+&lt;p>At around &lt;strong>18:15&lt;/strong> in the video, the drive belt setup is explained:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Belt type:&lt;/strong> HTD 3M, 15 mm wide, steel core&lt;/li>
+&lt;li>&lt;strong>Pulley:&lt;/strong> 15 teeth&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="parts-mentioned-in-the-video">Parts Mentioned in the Video&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://amzn.to/3EfIRiB">7 m HTD 3M timing belt (15 mm wide)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://amzn.to/4hAN7YA">Set of 3 timing belt pulleys (6.35 mm shaft, 15 teeth)&lt;/a>
+&lt;blockquote>
+&lt;p>Tip: You can choose pulleys with fewer or more teeth to adjust the gear ratio.&lt;/p></description></item><item><title>My ROOT CNC</title><link>https://example.org/memo/myrootcnc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/memo/myrootcnc/</guid><description>&lt;p>I recently bought a used ROOT CNC machine on the local marketplace.&lt;br>
 It needs some repairs — a few parts are broken — and it looks like the previous owner made some modifications.&lt;/p>
 &lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 310px">
 &lt;img class="card-img-top" src="https://example.org/memo/myrootcnc/featured-root_hu_33bd3fd66b5ea3ea.jpg" width="300" height="225">
@@ -190,7 +224,17 @@ It needs some repairs — a few parts are broken — and it looks like the previ
 &lt;h2 id="ooznest-workbee-750-x-750">Ooznest WorkBee 750 x 750&lt;/h2>
 &lt;p>&lt;a href="https://builds.openbuilds.com/builds/workbee-cnc-build-my-honest-opinion-tips-and-help.6407/">WorkBee 750 x 750 from Ooznest&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://builds.openbuilds.com/builds/workbee-cnc-build-my-honest-opinion-tips-and-help.6407">&lt;img src="https://example.org/images/openbuilds/openbuild_6407_thumb.jpg" alt="CNC Thumbnail">&lt;/a>&lt;/p>
-&lt;p>Nice build review also handy startup description to start with 2d and a pen.&lt;/p></description></item><item><title>Specifications</title><link>https://example.org/docs/tools/ratrig-killerbee/specs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/tools/ratrig-killerbee/specs/</guid><description>&lt;p>This page contains technical specifications of the Killerbee CNC.&lt;/p></description></item><item><title>Specifications</title><link>https://example.org/docs/tools/rootcnc/specs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/tools/rootcnc/specs/</guid><description>&lt;p>This page contains technical specifications of the Root CNC.&lt;/p>
+&lt;p>Nice build review also handy startup description to start with 2d and a pen.&lt;/p></description></item><item><title>Root 3 CNC</title><link>https://example.org/docs/knowledgebase/cnc/diy/inspiration/root/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/knowledgebase/cnc/diy/inspiration/root/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>The &lt;strong>Root 3 CNC&lt;/strong> is an open-source, belt-driven 3-axis machine and the successor to Root 2.1.&lt;br>
+For videos and a general intro, see the &lt;a href="https://example.org/docs/knowledgebase/cnc/diy/inspiration/">DIY CNC Designs – Inspiration&lt;/a> page.&lt;/p>
+&lt;hr>
+&lt;h2 id="belts-bom">Belts (BOM)&lt;/h2>
+&lt;p>Source: &lt;a href="https://wiki.rootcnc.com/en/Root-3/BOM">Root CNC Wiki – BOM&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>HTD-3M timing belt (open-ended)&lt;/strong> — “3M HTD Belt”&lt;br>
+Pitch: 3 mm · Width: &lt;strong>9 mm&lt;/strong> · Length: as required (open belt for axes)&lt;br>
+&lt;em>Rule of thumb:&lt;/em> order at least &lt;strong>2× Y-axis travel + 1× X-axis travel&lt;/strong>, plus &lt;strong>5–10%&lt;/strong> extra for tensioning.&lt;/p></description></item><item><title>Specifications</title><link>https://example.org/docs/tools/ratrig-killerbee/specs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/tools/ratrig-killerbee/specs/</guid><description>&lt;p>This page contains technical specifications of the Killerbee CNC.&lt;/p></description></item><item><title>Specifications</title><link>https://example.org/docs/tools/rootcnc/specs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/tools/rootcnc/specs/</guid><description>&lt;p>This page contains technical specifications of the Root CNC.&lt;/p>
 &lt;h1 id="stepper-motors">Stepper Motors&lt;/h1>
 &lt;p>ACT MOTOR 23HS6620B 1.8 2.0A&lt;br>
 Axis 6.35&lt;/p>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>DIY CNC Designs – Inspiration on Wood 'n Fab</title><link>https://example.org/docs/knowledgebase/cnc/diy/inspiration/</link><description>Recent content in DIY CNC Designs – Inspiration on Wood 'n Fab</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://example.org/docs/knowledgebase/cnc/diy/inspiration/index.xml" rel="self" type="application/rss+xml"/><item><title>MindSparx Full-Size CNC</title><link>https://example.org/docs/knowledgebase/cnc/diy/inspiration/mindsparx/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/knowledgebase/cnc/diy/inspiration/mindsparx/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=iIKaBGbAQsc">Watch the video&lt;/a>&lt;/p>
+&lt;p>This project shows how to build a &lt;strong>full-size, powerful, and fast CNC machine&lt;/strong> for around &lt;strong>€500&lt;/strong>. With smart component choices and an efficient design, it’s an achievable project for many DIY builders.&lt;/p>
+&lt;p>At around &lt;strong>18:15&lt;/strong> in the video, the drive belt setup is explained:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Belt type:&lt;/strong> HTD 3M, 15 mm wide, steel core&lt;/li>
+&lt;li>&lt;strong>Pulley:&lt;/strong> 15 teeth&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="parts-mentioned-in-the-video">Parts Mentioned in the Video&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://amzn.to/3EfIRiB">7 m HTD 3M timing belt (15 mm wide)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://amzn.to/4hAN7YA">Set of 3 timing belt pulleys (6.35 mm shaft, 15 teeth)&lt;/a>
+&lt;blockquote>
+&lt;p>Tip: You can choose pulleys with fewer or more teeth to adjust the gear ratio.&lt;/p></description></item><item><title>Root 3 CNC</title><link>https://example.org/docs/knowledgebase/cnc/diy/inspiration/root/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/knowledgebase/cnc/diy/inspiration/root/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>The &lt;strong>Root 3 CNC&lt;/strong> is an open-source, belt-driven 3-axis machine and the successor to Root 2.1.&lt;br>
+For videos and a general intro, see the &lt;a href="https://example.org/docs/knowledgebase/cnc/diy/inspiration/">DIY CNC Designs – Inspiration&lt;/a> page.&lt;/p>
+&lt;hr>
+&lt;h2 id="belts-bom">Belts (BOM)&lt;/h2>
+&lt;p>Source: &lt;a href="https://wiki.rootcnc.com/en/Root-3/BOM">Root CNC Wiki – BOM&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>HTD-3M timing belt (open-ended)&lt;/strong> — “3M HTD Belt”&lt;br>
+Pitch: 3 mm · Width: &lt;strong>9 mm&lt;/strong> · Length: as required (open belt for axes)&lt;br>
+&lt;em>Rule of thumb:&lt;/em> order at least &lt;strong>2× Y-axis travel + 1× X-axis travel&lt;/strong>, plus &lt;strong>5–10%&lt;/strong> extra for tensioning.&lt;/p></description></item></channel></rss>

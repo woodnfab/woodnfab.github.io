@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>WoodnFab — Projects, Tools &amp; Knowledge on Wood 'n Fab</title><link>https://example.org/</link><description>Recent content in WoodnFab — Projects, Tools &amp; Knowledge on Wood 'n Fab</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 09 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Rootanika</title><link>https://example.org/memo/rootanikacnc/</link><pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate><guid>https://example.org/memo/rootanikacnc/</guid><description>&lt;h1 id="rootanika">Rootanika&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>WoodnFab — Projects, Tools &amp; Knowledge on Wood 'n Fab</title><link>https://example.org/</link><description>Recent content in WoodnFab — Projects, Tools &amp; Knowledge on Wood 'n Fab</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 09 Aug 2025 12:00:00 +0000</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Rootanika</title><link>https://example.org/memo/rootanikacnc/</link><pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate><guid>https://example.org/memo/rootanikacnc/</guid><description>&lt;h1 id="rootanika">Rootanika&lt;/h1>
 &lt;p>Rootanika is a fusion project between the open-source CNC machines of &lt;strong>Root CNC&lt;/strong> and &lt;strong>Mekanika CNC&lt;/strong>. The goal is to combine the best of both worlds into a modular, accessible, and powerful CNC machine for makers, hobbyists, and small workshops.&lt;/p>
 &lt;h2 id="project-goals">Project Goals&lt;/h2>
 &lt;ul>
@@ -8,7 +8,27 @@
 &lt;li>Document everything open-source following the principles of both original projects.&lt;/li>
 &lt;/ul>
 &lt;h2 id="licensing">Licensing&lt;/h2>
-&lt;p>Rootanika follows the &lt;strong>Creative Commons BY-NC-SA 4.0&lt;/strong> license, same as its sources. This means:&lt;/p></description></item><item><title>2025-08-09 – Blender AI Conclusion</title><link>https://example.org/blog/2025-08-09_blender_ai_conclusion/</link><pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/blog/2025-08-09_blender_ai_conclusion/</guid><description>&lt;h2 id="-introduction">🛠️ Introduction&lt;/h2>
+&lt;p>Rootanika follows the &lt;strong>Creative Commons BY-NC-SA 4.0&lt;/strong> license, same as its sources. This means:&lt;/p></description></item><item><title>2025-08-09 – freecad</title><link>https://example.org/blog/2025-08-09_freecad/</link><pubDate>Sat, 09 Aug 2025 12:00:00 +0000</pubDate><guid>https://example.org/blog/2025-08-09_freecad/</guid><description>&lt;h2 id="-introduction">🛠️ Introduction&lt;/h2>
+&lt;p>I’m exploring ways to model my ideas for a CNC machine.&lt;/p>
+&lt;p>So i was triggered by the idea of using AI for my design.
+Which orignially led to the combination of Ai, pythin and blender.&lt;/p>
+&lt;p>Now i want to explore the idea&amp;rsquo;s of using freeCAD&lt;/p>
+&lt;hr>
+&lt;h3 id="-youtube--links">🏗️ YouTube – Links&lt;/h3>
+&lt;p>Already some links i found which might be interestingen.&lt;/p>
+&lt;p>FreeCAD CNC series. Aluminum extrusion modelling tutorial.&lt;/p>
+&lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 330px">
+ 
+ &lt;a href="https://www.youtube.com/watch?v=TqenXfqva5c" target="_blank" rel="noopener">
+ 
+ &lt;img class="card-img-top" src="https://example.org/blog/2025-08-09_freecad/alu_extrution_hu_edf42aff6ac7c912.jpg" width="320" height="180">
+ 
+ &lt;/a>
+ 
+ &lt;/figure>
+
+&lt;p>FreeCAD Part Scripting in Python Episode 025&lt;br>
+&lt;a href="https://www.youtube.com/watch?v=yp6yBTcdcII">https://www.youtube.com/watch?v=yp6yBTcdcII&lt;/a>&lt;/p></description></item><item><title>2025-08-09 – Blender AI Conclusion</title><link>https://example.org/blog/2025-08-09_blender_ai_conclusion/</link><pubDate>Sat, 09 Aug 2025 10:00:00 +0000</pubDate><guid>https://example.org/blog/2025-08-09_blender_ai_conclusion/</guid><description>&lt;h2 id="-introduction">🛠️ Introduction&lt;/h2>
 &lt;p>I’m exploring ways to model my ideas for a CNC machine.&lt;/p>
 &lt;p>In a &lt;a href="https://example.org/blog/2025-08-05_blender_ai">previous blog&lt;/a> I experimented with AI and Blender to create an aluminium frame.&lt;br>
 I chose Blender because AI could generate Python scripts for it.&lt;/p>
@@ -47,27 +67,7 @@ Although Blender can be used for CAD-like tasks and 3D design, I think FreeCAD m
 &lt;em>Photo: Pinterest&lt;/em>&lt;/p>
 &lt;hr>
 &lt;h3 id="-pinterest--cnc-pins-overview">📌 Pinterest – CNC Pins Overview&lt;/h3>
-&lt;p>Nice collection of CNC-related pins from other makers:&lt;/p></description></item><item><title>2025-08-09 – freecad</title><link>https://example.org/blog/2025-08-09_freecad/</link><pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/blog/2025-08-09_freecad/</guid><description>&lt;h2 id="-introduction">🛠️ Introduction&lt;/h2>
-&lt;p>I’m exploring ways to model my ideas for a CNC machine.&lt;/p>
-&lt;p>So i was triggered by the idea of using AI for my design.
-Which orignially led to the combination of Ai, pythin and blender.&lt;/p>
-&lt;p>Now i want to explore the idea&amp;rsquo;s of using freeCAD&lt;/p>
-&lt;hr>
-&lt;h3 id="-youtube--links">🏗️ YouTube – Links&lt;/h3>
-&lt;p>Already some links i found which might be interestingen.&lt;/p>
-&lt;p>FreeCAD CNC series. Aluminum extrusion modelling tutorial.&lt;/p>
-&lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 330px">
- 
- &lt;a href="https://www.youtube.com/watch?v=TqenXfqva5c" target="_blank" rel="noopener">
- 
- &lt;img class="card-img-top" src="https://example.org/blog/2025-08-09_freecad/alu_extrution_hu_edf42aff6ac7c912.jpg" width="320" height="180">
- 
- &lt;/a>
- 
- &lt;/figure>
-
-&lt;p>FreeCAD Part Scripting in Python Episode 025&lt;br>
-&lt;a href="https://www.youtube.com/watch?v=yp6yBTcdcII">https://www.youtube.com/watch?v=yp6yBTcdcII&lt;/a>&lt;/p></description></item><item><title>2025-08-04 – Blender AI</title><link>https://example.org/blog/2025-08-05_blender_ai/</link><pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/blog/2025-08-05_blender_ai/</guid><description>&lt;h2 id="-introduction">🛠️ Introduction&lt;/h2>
+&lt;p>Nice collection of CNC-related pins from other makers:&lt;/p></description></item><item><title>2025-08-04 – Blender AI</title><link>https://example.org/blog/2025-08-05_blender_ai/</link><pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/blog/2025-08-05_blender_ai/</guid><description>&lt;h2 id="-introduction">🛠️ Introduction&lt;/h2>
 &lt;p>I’m exploring ways to model my ideas for a CNC machine.
 While searching, I came across this 🎥 &lt;a href="https://www.youtube.com/watch?v=x60zHw_z4NM">YouTube video&lt;/a> introducing an interesting workflow that combines ChatGPT with Blender.&lt;/p>
 &lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 330px">

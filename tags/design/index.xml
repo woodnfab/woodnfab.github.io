@@ -1,21 +1,37 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Design on Wood 'n Fab</title><link>https://example.org/tags/design/</link><description>Recent content in Design on Wood 'n Fab</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 09 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/design/index.xml" rel="self" type="application/rss+xml"/><item><title>2025-08-09 – Design Ideas</title><link>https://example.org/daily-digest/2025-08-09_design_ideas/</link><pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/daily-digest/2025-08-09_design_ideas/</guid><description>&lt;p>💡 &lt;strong>Some design ideas I came across just for inspiration.&lt;/strong>&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Design on Wood 'n Fab</title><link>https://example.org/tags/design/</link><description>Recent content in Design on Wood 'n Fab</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 19 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/design/index.xml" rel="self" type="application/rss+xml"/><item><title>2025-08-19 – CNC Related</title><link>https://example.org/daily-digest/2025-08-19_cnc_related/</link><pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/daily-digest/2025-08-19_cnc_related/</guid><description>&lt;p>A quick look at some CNC-related content I explored today.&lt;/p>
 &lt;hr>
-&lt;h3 id="-pinterest--wood-pc-systems">🖼 Pinterest – Wood PC Systems&lt;/h3>
-&lt;p>Simple wooden PC setups — could be an idea for the CNC power supply housing.&lt;/p>
-&lt;p>&lt;a href="https://mx.pinterest.com/pin/93168286035928711/">https://mx.pinterest.com/pin/93168286035928711/&lt;/a>&lt;/p>
-&lt;p>&lt;img src="https://i.pinimg.com/70x/bd/4d/88/bd4d88a535094b9f26664ee2822ecd90.jpg" alt="Wood PC System">&lt;br>
-&lt;em>Photo: Pinterest&lt;/em>&lt;/p>
+&lt;h3 id="-openbuilds--ox-speed-reduction">⚙️ OpenBuilds – Ox Speed Reduction&lt;/h3>
+&lt;p>&lt;a href="https://builds.openbuilds.com/threads/ox-speed-reduction.1158/">https://builds.openbuilds.com/threads/ox-speed-reduction.1158/&lt;/a>&lt;/p>
+&lt;p>Nice proposal for a belt gear reduction.&lt;/p>
+&lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 330px">
+&lt;img class="card-img-top" src="https://example.org/daily-digest/2025-08-19_cnc_related/drive_gear_reduction_hu_9725a57570413a2.jpg" width="320" height="276">
+&lt;figcaption class="card-body px-0 pt-2 pb-0">
+&lt;p class="card-text">
+
+
+&lt;small class="text-body-secondary">&lt;br/>Photo: openbuilds.com&lt;/small>
+&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+
 &lt;hr>
-&lt;h3 id="-pinterest--rino-belt-drive">⚙ Pinterest – Rino Belt Drive&lt;/h3>
-&lt;p>Example of a large-format CNC router belt drive.&lt;/p>
-&lt;p>&lt;a href="https://mx.pinterest.com/pin/560416747404184089/">https://mx.pinterest.com/pin/560416747404184089/&lt;/a>&lt;/p>
-&lt;p>Also described on Instructables:&lt;br>
-&lt;a href="https://www.instructables.com/Rino-Rout-Belt-Drive-Large-Format-CNC-Router/">https://www.instructables.com/Rino-Rout-Belt-Drive-Large-Format-CNC-Router/&lt;/a>&lt;/p>
-&lt;p>&lt;img src="https://i.pinimg.com/70x/24/57/e2/2457e2ed1a9375a6c7fad7eda469f242.jpg" alt="Rino Belt Drive">&lt;br>
-&lt;em>Photo: Pinterest&lt;/em>&lt;/p>
+&lt;h3 id="-grabcad--steel-support-for-nema-23-timing-belt">🔩 GrabCAD – Steel Support for NEMA 23 Timing Belt&lt;/h3>
+&lt;p>&lt;a href="https://grabcad.com/library/steel-support-for-nema-23-timming-belt-1">https://grabcad.com/library/steel-support-for-nema-23-timming-belt-1&lt;/a>&lt;/p>
+&lt;p>A compact and tight belt support design.&lt;/p>
+&lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 330px">
+&lt;img class="card-img-top" src="https://example.org/daily-digest/2025-08-19_cnc_related/belt_hu_96c219aa87a8d6b2.jpg" width="320" height="240">
+&lt;figcaption class="card-body px-0 pt-2 pb-0">
+&lt;p class="card-text">
+
+
+&lt;small class="text-body-secondary">&lt;br/>Photo: grabcad.com&lt;/small>
+&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+
 &lt;hr>
-&lt;h3 id="-pinterest--cnc-pins-overview">📌 Pinterest – CNC Pins Overview&lt;/h3>
-&lt;p>Nice collection of CNC-related pins from other makers:&lt;/p></description></item><item><title>2025-08-09 – Design Ideas</title><link>https://example.org/daily-digest/2025-08-11_design_ideas/</link><pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/daily-digest/2025-08-11_design_ideas/</guid><description>&lt;p>💡 &lt;strong>Some design ideas I came across just for inspiration.&lt;/strong>&lt;/p>
+&lt;h3 id="-grabcad--belt-gear-with-stepper-motor-for-cnc">🌀 GrabCAD – Belt Gear with Stepper Motor for CNC&lt;/h3>
+&lt;p>&lt;a href="https://grabcad.com/library/belt-gear-with-step-motor-for-cnc-1">https://grabcad.com/library/belt-gear-with-step-motor-for-cnc-1&lt;/a>&lt;/p></description></item><item><title>2025-08-09 – Design Ideas</title><link>https://example.org/daily-digest/2025-08-09_design_ideas/</link><pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/daily-digest/2025-08-09_design_ideas/</guid><description>&lt;p>💡 &lt;strong>Some design ideas I came across just for inspiration.&lt;/strong>&lt;/p>
 &lt;hr>
 &lt;h3 id="-pinterest--wood-pc-systems">🖼 Pinterest – Wood PC Systems&lt;/h3>
 &lt;p>Simple wooden PC setups — could be an idea for the CNC power supply housing.&lt;/p>

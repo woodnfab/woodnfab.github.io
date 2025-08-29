@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UGS on Wood 'n Fab</title><link>https://example.org/tags/ugs/</link><description>Recent content in UGS on Wood 'n Fab</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 26 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/ugs/index.xml" rel="self" type="application/rss+xml"/><item><title>2025-07-26 - CNC Related</title><link>https://example.org/daily-digest/2025-07-26_cnc_related/</link><pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate><guid>https://example.org/daily-digest/2025-07-26_cnc_related/</guid><description>&lt;p>An overview of interesting links from today.&lt;/p>
-&lt;h2 id="website--cnc-workflow-using-cncjs">Website – CNC Workflow Using CNCjs&lt;/h2>
-&lt;p>&lt;a href="https://makerhardware.net/knowledge-base/how-to-guides/cnc-workflow-using-cncjs/">https://makerhardware.net/knowledge-base/how-to-guides/cnc-workflow-using-cncjs/&lt;/a>&lt;/p>
-&lt;p>A helpful tutorial on using CNCjs for engraving.&lt;/p>
-&lt;h2 id="youtube--how-to-build-a-large-cnc-router-arduino-grbl--ugs">YouTube – How to Build a Large CNC Router (Arduino GRBL + UGS)&lt;/h2>
-&lt;p>&lt;a href="https://www.youtube.com/watch?v=DF_1bY8aJbc">https://www.youtube.com/watch?v=DF_1bY8aJbc&lt;/a>&lt;/p>
-&lt;p>A great build video showing how to create a large CNC router using an Arduino, GRBL, and Universal G-Code Sender (UGS).&lt;/p>
-&lt;p>&lt;strong>Highlighted comment:&lt;/strong>&lt;/p>
-&lt;blockquote>
-&lt;p>As somebody about to undertake building my own CNC router, this is the best video that breaks down the basic component design of the table. Mine will be different but this paints such a good picture for a starting point. Excellent work.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UGS on Wood 'n Fab</title><link>https://example.org/tags/ugs/</link><description>Recent content in UGS on Wood 'n Fab</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 26 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/ugs/index.xml" rel="self" type="application/rss+xml"/><item><title>2025-07-26 - CNC Related</title><link>https://example.org/daily-digest/2025-07-26_cnc_related/</link><pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate><guid>https://example.org/daily-digest/2025-07-26_cnc_related/</guid><description>&lt;p&gt;An overview of interesting links from today.&lt;/p&gt;
+&lt;h2 id="website--cnc-workflow-using-cncjs"&gt;Website – CNC Workflow Using CNCjs&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://makerhardware.net/knowledge-base/how-to-guides/cnc-workflow-using-cncjs/"&gt;https://makerhardware.net/knowledge-base/how-to-guides/cnc-workflow-using-cncjs/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A helpful tutorial on using CNCjs for engraving.&lt;/p&gt;
+&lt;h2 id="youtube--how-to-build-a-large-cnc-router-arduino-grbl--ugs"&gt;YouTube – How to Build a Large CNC Router (Arduino GRBL + UGS)&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=DF_1bY8aJbc"&gt;https://www.youtube.com/watch?v=DF_1bY8aJbc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A great build video showing how to create a large CNC router using an Arduino, GRBL, and Universal G-Code Sender (UGS).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Highlighted comment:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;As somebody about to undertake building my own CNC router, this is the best video that breaks down the basic component design of the table. Mine will be different but this paints such a good picture for a starting point. Excellent work.&lt;/p&gt;</description></item></channel></rss>

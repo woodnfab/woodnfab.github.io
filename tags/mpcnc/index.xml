@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MPCNC on Wood 'n Fab</title><link>https://example.org/tags/mpcnc/</link><description>Recent content in MPCNC on Wood 'n Fab</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 26 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/mpcnc/index.xml" rel="self" type="application/rss+xml"/><item><title>2025-07-26 - MPCNC related</title><link>https://example.org/daily-digest/2025-07-26_mpcnc/</link><pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate><guid>https://example.org/daily-digest/2025-07-26_mpcnc/</guid><description>&lt;p>An overview of interesting links from today.&lt;/p>
-&lt;h2 id="verkabelung-und-steuerung-der-mpcnc-eine-schritt-für-schritt-anleitung">Verkabelung und Steuerung der MPCNC: Eine Schritt-für-Schritt-Anleitung&lt;/h2>
-&lt;p>&lt;a href="https://konstruktionsbude.de/mpcnc-verkabelung-steuerung/">https://konstruktionsbude.de/mpcnc-verkabelung-steuerung/&lt;/a>&lt;/p>
-&lt;p>A German page detailing the control of an MPCNC using an Arduino-based setup.&lt;/p>
-&lt;p>Also additional information on the MPCNC:&lt;/p>
-&lt;ul>
-&lt;li>&lt;a href="https://konstruktionsbude.de/mpcnc-primo/">https://konstruktionsbude.de/mpcnc-primo/&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://konstruktionsbude.de/mpcnc-primo-einkaufsliste/">https://konstruktionsbude.de/mpcnc-primo-einkaufsliste/&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="mpcnc-part-3">MPCNC Part 3&lt;/h2>
-&lt;p>&lt;a href="https://coeleveld.com/mpcnc-part-3/">https://coeleveld.com/mpcnc-part-3/&lt;/a>&lt;/p>
-&lt;p>Build description of an MPCNC.&lt;/p>
-&lt;h2 id="mpcnc-primo--aktuelle-einkaufsliste-für-deutschland-2025">MPCNC Primo – aktuelle Einkaufsliste für Deutschland 2025&lt;/h2>
-&lt;p>&lt;a href="https://www.frag-matze.de/heimwerken-mpcnc-primo-2020-teileliste-einkaufsliste-deutsch-deutschland">https://www.frag-matze.de/heimwerken-mpcnc-primo-2020-teileliste-einkaufsliste-deutsch-deutschland&lt;/a>&lt;/p>
-&lt;p>A current (2025) parts list for the MPCNC in Germany.&lt;/p>
-&lt;h2 id="german-supplier-of-mpcnc-parts">German supplier of MPCNC parts&lt;/h2>
-&lt;p>&lt;a href="https://www.hoerr-edelstahl.de/Restposten-Schnaeppchen-sonstige-Artikel/Rohr-Set-25-mm-Edelstahl-fuer-PRIMO-mostly-printed-MPCNC-Stangen-Arbeitsbereich.html">https://www.hoerr-edelstahl.de/Restposten-Schnaeppchen-sonstige-Artikel/Rohr-Set-25-mm-Edelstahl-fuer-PRIMO-mostly-printed-MPCNC-Stangen-Arbeitsbereich.html&lt;/a>&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MPCNC on Wood 'n Fab</title><link>https://example.org/tags/mpcnc/</link><description>Recent content in MPCNC on Wood 'n Fab</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 26 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/mpcnc/index.xml" rel="self" type="application/rss+xml"/><item><title>2025-07-26 - MPCNC related</title><link>https://example.org/daily-digest/2025-07-26_mpcnc/</link><pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate><guid>https://example.org/daily-digest/2025-07-26_mpcnc/</guid><description>&lt;p&gt;An overview of interesting links from today.&lt;/p&gt;
+&lt;h2 id="verkabelung-und-steuerung-der-mpcnc-eine-schritt-für-schritt-anleitung"&gt;Verkabelung und Steuerung der MPCNC: Eine Schritt-für-Schritt-Anleitung&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://konstruktionsbude.de/mpcnc-verkabelung-steuerung/"&gt;https://konstruktionsbude.de/mpcnc-verkabelung-steuerung/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A German page detailing the control of an MPCNC using an Arduino-based setup.&lt;/p&gt;
+&lt;p&gt;Also additional information on the MPCNC:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://konstruktionsbude.de/mpcnc-primo/"&gt;https://konstruktionsbude.de/mpcnc-primo/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://konstruktionsbude.de/mpcnc-primo-einkaufsliste/"&gt;https://konstruktionsbude.de/mpcnc-primo-einkaufsliste/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="mpcnc-part-3"&gt;MPCNC Part 3&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://coeleveld.com/mpcnc-part-3/"&gt;https://coeleveld.com/mpcnc-part-3/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Build description of an MPCNC.&lt;/p&gt;
+&lt;h2 id="mpcnc-primo--aktuelle-einkaufsliste-für-deutschland-2025"&gt;MPCNC Primo – aktuelle Einkaufsliste für Deutschland 2025&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.frag-matze.de/heimwerken-mpcnc-primo-2020-teileliste-einkaufsliste-deutsch-deutschland"&gt;https://www.frag-matze.de/heimwerken-mpcnc-primo-2020-teileliste-einkaufsliste-deutsch-deutschland&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A current (2025) parts list for the MPCNC in Germany.&lt;/p&gt;
+&lt;h2 id="german-supplier-of-mpcnc-parts"&gt;German supplier of MPCNC parts&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.hoerr-edelstahl.de/Restposten-Schnaeppchen-sonstige-Artikel/Rohr-Set-25-mm-Edelstahl-fuer-PRIMO-mostly-printed-MPCNC-Stangen-Arbeitsbereich.html"&gt;https://www.hoerr-edelstahl.de/Restposten-Schnaeppchen-sonstige-Artikel/Rohr-Set-25-mm-Edelstahl-fuer-PRIMO-mostly-printed-MPCNC-Stangen-Arbeitsbereich.html&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>

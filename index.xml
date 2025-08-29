@@ -1,350 +1,352 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>WoodnFab — Projects, Tools &amp; Knowledge on Wood 'n Fab</title><link>https://example.org/</link><description>Recent content in WoodnFab — Projects, Tools &amp; Knowledge on Wood 'n Fab</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 22 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Rootanika</title><link>https://example.org/memo/rootanikacnc/</link><pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate><guid>https://example.org/memo/rootanikacnc/</guid><description>&lt;h1 id="rootanika">Rootanika&lt;/h1>
-&lt;p>Rootanika is a fusion project between the open-source CNC machines of &lt;strong>Root CNC&lt;/strong> and &lt;strong>Mekanika CNC&lt;/strong>. The goal is to combine the best of both worlds into a modular, accessible, and powerful CNC machine for makers, hobbyists, and small workshops.&lt;/p>
-&lt;h2 id="project-goals">Project Goals&lt;/h2>
-&lt;ul>
-&lt;li>Combine the rigidity and strength of Root CNC with the user-friendly design and clean aesthetics of Mekanika CNC.&lt;/li>
-&lt;li>Design a fully customizable, belt-driven machine with a focus on reusable and accessible components.&lt;/li>
-&lt;li>Keep the target cost around €800 (excluding spindle and spoilboard), making it affordable without compromising performance.&lt;/li>
-&lt;li>Document everything open-source following the principles of both original projects.&lt;/li>
-&lt;/ul>
-&lt;h2 id="licensing">Licensing&lt;/h2>
-&lt;p>Rootanika follows the &lt;strong>Creative Commons BY-NC-SA 4.0&lt;/strong> license, same as its sources. This means:&lt;/p></description></item><item><title>2025-08-22 – CNC Related</title><link>https://example.org/daily-digest/2025-08-22_cnc_related/</link><pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/daily-digest/2025-08-22_cnc_related/</guid><description>&lt;p>A quick look at some CNC-related content I explored today.&lt;/p>
-&lt;hr>
-&lt;h3 id="-youtube--2-critical-tools-you-need-to-print-before-building-a-printnc-cnc">🛠️ YouTube – 2 CRITICAL Tools You NEED to Print Before Building a PrintNC CNC&lt;/h3>
-&lt;p>&lt;a href="https://www.youtube.com/watch?v=2kEMA17L1qw">https://www.youtube.com/watch?v=2kEMA17L1qw&lt;/a>&lt;/p>
-&lt;p>Great explanation on essential printed tools for the PrintNC build.&lt;/p>
-&lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 330px">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>WoodnFab — Projects, Tools &amp; Knowledge on Wood 'n Fab</title><link>https://example.org/</link><description>Recent content in WoodnFab — Projects, Tools &amp; Knowledge on Wood 'n Fab</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 22 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Rootanika</title><link>https://example.org/memo/rootanikacnc/</link><pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate><guid>https://example.org/memo/rootanikacnc/</guid><description>&lt;h1 id="rootanika"&gt;Rootanika&lt;/h1&gt;
+&lt;p&gt;Rootanika is a fusion project between the open-source CNC machines of &lt;strong&gt;Root CNC&lt;/strong&gt; and &lt;strong&gt;Mekanika CNC&lt;/strong&gt;. The goal is to combine the best of both worlds into a modular, accessible, and powerful CNC machine for makers, hobbyists, and small workshops.&lt;/p&gt;
+&lt;h2 id="project-goals"&gt;Project Goals&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Combine the rigidity and strength of Root CNC with the user-friendly design and clean aesthetics of Mekanika CNC.&lt;/li&gt;
+&lt;li&gt;Design a fully customizable, belt-driven machine with a focus on reusable and accessible components.&lt;/li&gt;
+&lt;li&gt;Keep the target cost around €800 (excluding spindle and spoilboard), making it affordable without compromising performance.&lt;/li&gt;
+&lt;li&gt;Document everything open-source following the principles of both original projects.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="licensing"&gt;Licensing&lt;/h2&gt;
+&lt;p&gt;Rootanika follows the &lt;strong&gt;Creative Commons BY-NC-SA 4.0&lt;/strong&gt; license, same as its sources. This means:&lt;/p&gt;</description></item><item><title>2025-08-22 – CNC Related</title><link>https://example.org/daily-digest/2025-08-22_cnc_related/</link><pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/daily-digest/2025-08-22_cnc_related/</guid><description>&lt;p&gt;A quick look at some CNC-related content I explored today.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="-youtube--2-critical-tools-you-need-to-print-before-building-a-printnc-cnc"&gt;🛠️ YouTube – 2 CRITICAL Tools You NEED to Print Before Building a PrintNC CNC&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=2kEMA17L1qw"&gt;https://www.youtube.com/watch?v=2kEMA17L1qw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Great explanation on essential printed tools for the PrintNC build.&lt;/p&gt;
+&lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 330px"&gt;
  
- &lt;a href="https://www.youtube.com/watch?v=2kEMA17L1qw" target="_blank" rel="noopener">
+ &lt;a href="https://www.youtube.com/watch?v=2kEMA17L1qw" target="_blank" rel="noopener"&gt;
  
- &lt;img class="card-img-top" src="https://example.org/daily-digest/2025-08-22_cnc_related/printnc_tools_hu_ab2a5b08e0a840e9.jpg" width="320" height="180">
+ &lt;img class="card-img-top" src="https://example.org/daily-digest/2025-08-22_cnc_related/printnc_tools_hu_ab2a5b08e0a840e9.jpg" width="320" height="180"&gt;
  
- &lt;/a>
+ &lt;/a&gt;
  
- &lt;figcaption class="card-body px-0 pt-2 pb-0">
- &lt;p class="card-text">
+ &lt;figcaption class="card-body px-0 pt-2 pb-0"&gt;
+ &lt;p class="card-text"&gt;
  
-&lt;small class="text-body-secondary">&lt;br/>Photo: youtube.com&lt;/small>
- &lt;/p>
- &lt;/figcaption>
- &lt;/figure>
+&lt;small class="text-body-secondary"&gt;&lt;br/&gt;Photo: youtube.com&lt;/small&gt;
+ &lt;/p&gt;
+ &lt;/figcaption&gt;
+ &lt;/figure&gt;
 
-&lt;h3 id="-youtube--the-best-desktop-cnc---cnc4newbie-new-carve-500mm-build-series-part-1-assembly">🖥️ YouTube – The BEST DESKTOP CNC - CNC4NEWBIE New-Carve 500mm Build Series Part 1: Assembly&lt;/h3>
-&lt;p>&lt;a href="https://www.youtube.com/watch?v=R_CfZ-bWqQo">https://www.youtube.com/watch?v=R_CfZ-bWqQo&lt;/a>&lt;/p>
-&lt;p>Nice build of a CNC, looks quite sturdy.&lt;br>
-Good explanation on checking if the CNC is square → &lt;a href="https://youtu.be/R_CfZ-bWqQo?t=0h28m04s">@28:04&lt;/a>&lt;/p></description></item><item><title>2025-08-19 – CNC Related</title><link>https://example.org/daily-digest/2025-08-19_cnc_related/</link><pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/daily-digest/2025-08-19_cnc_related/</guid><description>&lt;p>A quick look at some CNC-related content I explored today.&lt;/p>
-&lt;hr>
-&lt;h3 id="-openbuilds--ox-speed-reduction">⚙️ OpenBuilds – Ox Speed Reduction&lt;/h3>
-&lt;p>&lt;a href="https://builds.openbuilds.com/threads/ox-speed-reduction.1158/">https://builds.openbuilds.com/threads/ox-speed-reduction.1158/&lt;/a>&lt;/p>
-&lt;p>Nice proposal for a belt gear reduction.&lt;/p>
-&lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 330px">
-&lt;img class="card-img-top" src="https://example.org/daily-digest/2025-08-19_cnc_related/drive_gear_reduction_hu_9725a57570413a2.jpg" width="320" height="276">
-&lt;figcaption class="card-body px-0 pt-2 pb-0">
-&lt;p class="card-text">
-
-
-&lt;small class="text-body-secondary">&lt;br/>Photo: openbuilds.com&lt;/small>
-&lt;/p>
-&lt;/figcaption>
-&lt;/figure>
-
-&lt;hr>
-&lt;h3 id="-grabcad--steel-support-for-nema-23-timing-belt">🔩 GrabCAD – Steel Support for NEMA 23 Timing Belt&lt;/h3>
-&lt;p>&lt;a href="https://grabcad.com/library/steel-support-for-nema-23-timming-belt-1">https://grabcad.com/library/steel-support-for-nema-23-timming-belt-1&lt;/a>&lt;/p>
-&lt;p>A compact and tight belt support design.&lt;/p>
-&lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 330px">
-&lt;img class="card-img-top" src="https://example.org/daily-digest/2025-08-19_cnc_related/belt_hu_96c219aa87a8d6b2.jpg" width="320" height="240">
-&lt;figcaption class="card-body px-0 pt-2 pb-0">
-&lt;p class="card-text">
+&lt;h3 id="-youtube--the-best-desktop-cnc---cnc4newbie-new-carve-500mm-build-series-part-1-assembly"&gt;🖥️ YouTube – The BEST DESKTOP CNC - CNC4NEWBIE New-Carve 500mm Build Series Part 1: Assembly&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=R_CfZ-bWqQo"&gt;https://www.youtube.com/watch?v=R_CfZ-bWqQo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nice build of a CNC, looks quite sturdy.&lt;br&gt;
+Good explanation on checking if the CNC is square → &lt;a href="https://youtu.be/R_CfZ-bWqQo?t=0h28m04s"&gt;@28:04&lt;/a&gt;&lt;/p&gt;</description></item><item><title>2025-08-19 – CNC Related</title><link>https://example.org/daily-digest/2025-08-19_cnc_related/</link><pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/daily-digest/2025-08-19_cnc_related/</guid><description>&lt;p&gt;A quick look at some CNC-related content I explored today.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="-openbuilds--ox-speed-reduction"&gt;⚙️ OpenBuilds – Ox Speed Reduction&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://builds.openbuilds.com/threads/ox-speed-reduction.1158/"&gt;https://builds.openbuilds.com/threads/ox-speed-reduction.1158/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nice proposal for a belt gear reduction.&lt;/p&gt;
+&lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 330px"&gt;
+&lt;img class="card-img-top" src="https://example.org/daily-digest/2025-08-19_cnc_related/drive_gear_reduction_hu_9725a57570413a2.jpg" width="320" height="276"&gt;
+&lt;figcaption class="card-body px-0 pt-2 pb-0"&gt;
+&lt;p class="card-text"&gt;
 
 
-&lt;small class="text-body-secondary">&lt;br/>Photo: grabcad.com&lt;/small>
-&lt;/p>
-&lt;/figcaption>
-&lt;/figure>
+&lt;small class="text-body-secondary"&gt;&lt;br/&gt;Photo: openbuilds.com&lt;/small&gt;
+&lt;/p&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-&lt;hr>
-&lt;h3 id="-grabcad--belt-gear-with-stepper-motor-for-cnc">🌀 GrabCAD – Belt Gear with Stepper Motor for CNC&lt;/h3>
-&lt;p>&lt;a href="https://grabcad.com/library/belt-gear-with-step-motor-for-cnc-1">https://grabcad.com/library/belt-gear-with-step-motor-for-cnc-1&lt;/a>&lt;/p></description></item><item><title>2025-08-09 – freecad</title><link>https://example.org/blog/2025-08-09_freecad/</link><pubDate>Sat, 09 Aug 2025 12:00:00 +0000</pubDate><guid>https://example.org/blog/2025-08-09_freecad/</guid><description>&lt;h2 id="-introduction">🛠️ Introduction&lt;/h2>
-&lt;p>I’m exploring ways to model my ideas for a CNC machine.&lt;/p>
-&lt;p>So i was triggered by the idea of using AI for my design.
-Which orignially led to the combination of Ai, python and blender.&lt;/p>
-&lt;p>Now i want to explore the idea&amp;rsquo;s of using freeCAD&lt;/p>
-&lt;hr>
-&lt;h3 id="-youtube--links">🏗️ YouTube – Links&lt;/h3>
-&lt;p>Already some links i found which might be interestingen.&lt;/p>
-&lt;p>FreeCAD CNC series. Aluminum extrusion modelling tutorial.&lt;/p>
-&lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 330px">
- 
- &lt;a href="https://www.youtube.com/watch?v=TqenXfqva5c" target="_blank" rel="noopener">
- 
- &lt;img class="card-img-top" src="https://example.org/blog/2025-08-09_freecad/alu_extrution_hu_edf42aff6ac7c912.jpg" width="320" height="180">
- 
- &lt;/a>
- 
- &lt;/figure>
-
-&lt;p>FreeCAD Part Scripting in Python Episode 025&lt;br>
-&lt;a href="https://www.youtube.com/watch?v=yp6yBTcdcII">https://www.youtube.com/watch?v=yp6yBTcdcII&lt;/a>&lt;/p></description></item><item><title>2025-08-09 – Blender AI Conclusion</title><link>https://example.org/blog/2025-08-09_blender_ai_conclusion/</link><pubDate>Sat, 09 Aug 2025 10:00:00 +0000</pubDate><guid>https://example.org/blog/2025-08-09_blender_ai_conclusion/</guid><description>&lt;h2 id="-introduction">🛠️ Introduction&lt;/h2>
-&lt;p>I’m exploring ways to model my ideas for a CNC machine.&lt;/p>
-&lt;p>In a &lt;a href="https://example.org/blog/2025-08-05_blender_ai">previous blog&lt;/a> I experimented with AI and Blender to create an aluminium frame.&lt;br>
-I chose Blender because AI could generate Python scripts for it.&lt;/p>
-&lt;p>During my research, I discovered that FreeCAD also supports Python scripting.&lt;br>
-Although Blender can be used for CAD-like tasks and 3D design, I think FreeCAD might be a better fit for my next steps.&lt;/p></description></item><item><title>2025-08-09 – Design Ideas</title><link>https://example.org/daily-digest/2025-08-09_design_ideas/</link><pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/daily-digest/2025-08-09_design_ideas/</guid><description>&lt;p>💡 &lt;strong>Some design ideas I came across just for inspiration.&lt;/strong>&lt;/p>
-&lt;hr>
-&lt;h3 id="-pinterest--wood-pc-systems">🖼 Pinterest – Wood PC Systems&lt;/h3>
-&lt;p>Simple wooden PC setups — could be an idea for the CNC power supply housing.&lt;/p>
-&lt;p>&lt;a href="https://mx.pinterest.com/pin/93168286035928711/">https://mx.pinterest.com/pin/93168286035928711/&lt;/a>&lt;/p>
-&lt;p>&lt;img src="https://i.pinimg.com/70x/bd/4d/88/bd4d88a535094b9f26664ee2822ecd90.jpg" alt="Wood PC System">&lt;br>
-&lt;em>Photo: Pinterest&lt;/em>&lt;/p>
-&lt;hr>
-&lt;h3 id="-pinterest--rino-belt-drive">⚙ Pinterest – Rino Belt Drive&lt;/h3>
-&lt;p>Example of a large-format CNC router belt drive.&lt;/p>
-&lt;p>&lt;a href="https://mx.pinterest.com/pin/560416747404184089/">https://mx.pinterest.com/pin/560416747404184089/&lt;/a>&lt;/p>
-&lt;p>Also described on Instructables:&lt;br>
-&lt;a href="https://www.instructables.com/Rino-Rout-Belt-Drive-Large-Format-CNC-Router/">https://www.instructables.com/Rino-Rout-Belt-Drive-Large-Format-CNC-Router/&lt;/a>&lt;/p>
-&lt;p>&lt;img src="https://i.pinimg.com/70x/24/57/e2/2457e2ed1a9375a6c7fad7eda469f242.jpg" alt="Rino Belt Drive">&lt;br>
-&lt;em>Photo: Pinterest&lt;/em>&lt;/p>
-&lt;hr>
-&lt;h3 id="-pinterest--cnc-pins-overview">📌 Pinterest – CNC Pins Overview&lt;/h3>
-&lt;p>Nice collection of CNC-related pins from other makers:&lt;/p></description></item><item><title>2025-08-04 – Blender AI</title><link>https://example.org/blog/2025-08-05_blender_ai/</link><pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/blog/2025-08-05_blender_ai/</guid><description>&lt;h2 id="-introduction">🛠️ Introduction&lt;/h2>
-&lt;p>I’m exploring ways to model my ideas for a CNC machine.
-While searching, I came across this 🎥 &lt;a href="https://www.youtube.com/watch?v=x60zHw_z4NM">YouTube video&lt;/a> introducing an interesting workflow that combines ChatGPT with Blender.&lt;/p>
-&lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 330px">
- 
- &lt;a href="#ZgotmplZ" target="_blank" rel="noopener">
- 
- &lt;img class="card-img-top" src="https://example.org/blog/2025-08-05_blender_ai/youtube_hu_50527c22945d7bed.jpg" width="320" height="180">
- 
- &lt;/a>
- 
- &lt;/figure>
-
-&lt;p>To start experimenting, I want to see if I can model a base frame using &lt;strong>30-series aluminium profiles&lt;/strong>.&lt;/p>
-&lt;p>For additional Blender inspiration, I also found this 📝 &lt;a href="https://www.rab3d.com/tut_blender.php">Rab3D tutorial&lt;/a>.
-Hopefully, the creator will continue updating his progress.&lt;/p></description></item><item><title>2025-08-05 – CNC Related</title><link>https://example.org/daily-digest/2025-08-05_cnc_related/</link><pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/daily-digest/2025-08-05_cnc_related/</guid><description>&lt;p>A quick look at some CNC-related content I explored today.&lt;/p>
-&lt;hr>
-&lt;h3 id="-youtube--diy-cnc-your-questions-answered-and-what-id-do-differently">🔥 YouTube – DIY CNC: Your Questions Answered (and What I’d Do Differently)&lt;/h3>
-&lt;p>&lt;a href="https://www.youtube.com/watch?v=nlWXileUSbU">https://www.youtube.com/watch?v=nlWXileUSbU&lt;/a>&lt;/p>
-&lt;blockquote>
-&lt;p>This is a follow-up to the first video about my DIY CNC router. Here I answer some of the frequently asked questions I received in the comments on that video. If you have any additional questions, let me know!&lt;/p>&lt;/blockquote>
-&lt;p>In question 5, I talk about the bits I like to use. My main choices are:&lt;/p></description></item><item><title>2025-08-04 – CNC Related</title><link>https://example.org/daily-digest/2025-08-04_cnc_related/</link><pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/daily-digest/2025-08-04_cnc_related/</guid><description>&lt;p>A quick look at some CNC-related content I explored today.&lt;/p>
-&lt;hr>
-&lt;h3 id="-youtube--150-cnc-plasma-table-build--easy-quick-and-cost-effective">🔥 YouTube – £150 CNC Plasma Table Build – Easy, Quick and Cost Effective&lt;/h3>
-&lt;p>&lt;a href="https://www.youtube.com/watch?v=xVZZfx9KPlc">https://www.youtube.com/watch?v=xVZZfx9KPlc&lt;/a>&lt;/p>
-&lt;p>Next-level metal cutting.&lt;br>
-I especially liked the use of a tablet and the clear G-code explanation.&lt;/p>
-&lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 330px">
- 
- &lt;a href="https://www.youtube.com/watch?v=xVZZfx9KPlc" target="_blank" rel="noopener">
- 
- &lt;img class="card-img-top" src="https://example.org/daily-digest/2025-08-04_cnc_related/plasma_hu_2e44c9ec13505305.jpg" width="320" height="180">
- 
- &lt;/a>
- 
- &lt;figcaption class="card-body px-0 pt-2 pb-0">
- &lt;p class="card-text">
- 
-&lt;small class="text-body-secondary">&lt;br/>Photo: youtube.com&lt;/small>
- &lt;/p>
- &lt;/figcaption>
- &lt;/figure>
-
-&lt;hr>
-&lt;h3 id="-youtube--topscnc-heavy--the-big-3d-printed-cnc-diy">🖨️ YouTube – TopsCNC Heavy – The Big 3D Printed CNC DIY&lt;/h3>
-&lt;p>&lt;a href="https://www.youtube.com/watch?v=wIgIz47WK7Y">https://www.youtube.com/watch?v=wIgIz47WK7Y&lt;/a>&lt;/p>
-&lt;p>Nice printed CNC and a great build video.&lt;br>
-Good for design inspiration.&lt;/p></description></item><item><title>2025-08-03 – CNC Related</title><link>https://example.org/daily-digest/2025-08-03_cnc_related/</link><pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/daily-digest/2025-08-03_cnc_related/</guid><description>&lt;p>A quick look at some CNC-related content I explored today.&lt;/p>
-&lt;hr>
-&lt;h3 id="-rootcnc--overall-average-costs-for-complete-builds-ready-to-run">📊 RootCNC – Overall Average Costs for Complete Builds (Ready to Run)&lt;/h3>
-&lt;p>Discussion on RootCNC Discourse&lt;br>
-&lt;a href="https://rootcnc.discourse.group/t/overall-average-costs-for-complete-builds-ready-to-run/216">https://rootcnc.discourse.group/t/overall-average-costs-for-complete-builds-ready-to-run/216&lt;/a>&lt;/p>
-&lt;blockquote>
-&lt;p>but here is a rough costing for the machines:&lt;br>
-4 ~£1200 but mine is a considerably larger machine so saving can be made here!&lt;br>
-4 Lite £450-550&lt;br>
-3 Lite £450-530&lt;br>
-3 Unsure its been a while&lt;br>
-Root 2 is not recommended as the newer machine out perform it.&lt;/p></description></item><item><title>2025-08-02 – CNC Related</title><link>https://example.org/daily-digest/2025-08-02_cnc_related/</link><pubDate>Sat, 02 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/daily-digest/2025-08-02_cnc_related/</guid><description>&lt;p>A quick look at some interesting CNC-related content I explored today.&lt;/p>
-&lt;hr>
-&lt;h3 id="-youtube--openbuilds-lead-1515-electronics--software-using-blackbox">📺 YouTube – OpenBuilds LEAD 1515 Electronics &amp;amp; Software (Using BlackBox)&lt;/h3>
-&lt;p>&lt;a href="https://www.youtube.com/watch?v=xxyA5WftF8k">https://www.youtube.com/watch?v=xxyA5WftF8k&lt;/a>&lt;/p>
-&lt;p>A detailed build video covering the OpenBuilds LEAD 1515, with a focus on electronics, wiring, and software setup using the BlackBox controller.&lt;br>
-A solid reference if you’re planning a similar build or want to understand the workflow from assembly to operation.&lt;/p>
-&lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 330px">
- 
- &lt;a href="https://www.youtube.com/watch?v=xxyA5WftF8k" target="_blank" rel="noopener">
- 
- &lt;img class="card-img-top" src="https://example.org/daily-digest/2025-08-02_cnc_related/openbuilds-lead_hu_32986d386ee07759.jpg" width="320" height="180">
- 
- &lt;/a>
- 
- &lt;figcaption class="card-body px-0 pt-2 pb-0">
- &lt;p class="card-text">
- 
-&lt;small class="text-body-secondary">&lt;br/>Photo: youtube.com&lt;/small>
- &lt;/p></description></item><item><title>2025-07-29 – CNC Related</title><link>https://example.org/daily-digest/2025-07-29_cnc_related/</link><pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate><guid>https://example.org/daily-digest/2025-07-29_cnc_related/</guid><description>&lt;p>An overview of interesting CNC-related links I explored today.&lt;/p>
-&lt;h3 id="-youtube---the-ultimate-onefinity-cnc-setup---spoilboard-cart-vertical-table---400">📺 Youtube - The Ultimate OneFinity CNC Setup - Spoilboard, Cart, Vertical Table - 400&lt;/h3>
-&lt;p>&lt;a href="https://www.youtube.com/watch?v=Dvur03ZA3vU">https://www.youtube.com/watch?v=Dvur03ZA3vU&lt;/a>&lt;/p>
-&lt;p>Create description on make a table, spoilboard and fence&lt;/p>
-&lt;h3 id="-youtube---stainless-ox-cnc-work-surface-and-spoil-board">📺 Youtube - Stainless OX CNC work surface and spoil board&lt;/h3>
-&lt;p>&lt;a href="https://www.youtube.com/watch?v=Inl28tvREKU">https://www.youtube.com/watch?v=Inl28tvREKU&lt;/a>&lt;/p>
-&lt;blockquote>
-&lt;p>How I made the work surface and spoil board for my DIY Stainless OX CNC machine. Design in Sketchup and generation of G-code using CamBam and finally cutting the parts on the Stainless OX.
-For more info check: &lt;a href="https://forum.makersupplies.dk/listin">https://forum.makersupplies.dk/listin&lt;/a>&amp;hellip;&lt;/p></description></item><item><title>2025-07-27 – CNC Related</title><link>https://example.org/daily-digest/2025-07-27_cnc_related/</link><pubDate>Sun, 27 Jul 2025 00:00:00 +0000</pubDate><guid>https://example.org/daily-digest/2025-07-27_cnc_related/</guid><description>&lt;p>An overview of interesting CNC-related links I explored today.&lt;/p>
-&lt;hr>
-&lt;h3 id="-youtube--riesen-diy-cnc-fräse-mit-1000x2000mm-mit-v-slot-profilen-für-unter-700-bauen">📺 YouTube – &lt;em>Riesen DIY CNC Fräse mit 1000x2000mm mit V-Slot Profilen für unter 700€ bauen&lt;/em>&lt;/h3>
-&lt;p>&lt;a href="https://www.youtube.com/watch?v=EuOvwwP2x9A">https://www.youtube.com/watch?v=EuOvwwP2x9A&lt;/a>&lt;/p>
-&lt;blockquote>
-&lt;p>Aufbau und Funktion meiner riesigen #diy #cnc für Holzprojekte aus V-Slot Profilen. Powered by Estlcam, Arduino UNO und CNC Shield.&lt;/p>&lt;/blockquote>
-&lt;p>A large-scale DIY CNC router made with V-slot profiles, driven by Estlcam and Arduino. Very affordable setup under €700.&lt;/p>
-&lt;hr>
-&lt;h3 id="-youtube--die-open-source-fräse-das-endchen">📺 YouTube – &lt;em>Die Open Source Fräse: Das Endchen&lt;/em>&lt;/h3>
-&lt;p>&lt;a href="https://www.youtube.com/watch?v=FVFT421XhG4">https://www.youtube.com/watch?v=FVFT421XhG4&lt;/a>&lt;/p></description></item><item><title>2025-07-26 - CNC Related</title><link>https://example.org/daily-digest/2025-07-26_cnc_related/</link><pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate><guid>https://example.org/daily-digest/2025-07-26_cnc_related/</guid><description>&lt;p>An overview of interesting links from today.&lt;/p>
-&lt;h2 id="website--cnc-workflow-using-cncjs">Website – CNC Workflow Using CNCjs&lt;/h2>
-&lt;p>&lt;a href="https://makerhardware.net/knowledge-base/how-to-guides/cnc-workflow-using-cncjs/">https://makerhardware.net/knowledge-base/how-to-guides/cnc-workflow-using-cncjs/&lt;/a>&lt;/p>
-&lt;p>A helpful tutorial on using CNCjs for engraving.&lt;/p>
-&lt;h2 id="youtube--how-to-build-a-large-cnc-router-arduino-grbl--ugs">YouTube – How to Build a Large CNC Router (Arduino GRBL + UGS)&lt;/h2>
-&lt;p>&lt;a href="https://www.youtube.com/watch?v=DF_1bY8aJbc">https://www.youtube.com/watch?v=DF_1bY8aJbc&lt;/a>&lt;/p>
-&lt;p>A great build video showing how to create a large CNC router using an Arduino, GRBL, and Universal G-Code Sender (UGS).&lt;/p>
-&lt;p>&lt;strong>Highlighted comment:&lt;/strong>&lt;/p>
-&lt;blockquote>
-&lt;p>As somebody about to undertake building my own CNC router, this is the best video that breaks down the basic component design of the table. Mine will be different but this paints such a good picture for a starting point. Excellent work.&lt;/p></description></item><item><title>2025-07-26 - MPCNC related</title><link>https://example.org/daily-digest/2025-07-26_mpcnc/</link><pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate><guid>https://example.org/daily-digest/2025-07-26_mpcnc/</guid><description>&lt;p>An overview of interesting links from today.&lt;/p>
-&lt;h2 id="verkabelung-und-steuerung-der-mpcnc-eine-schritt-für-schritt-anleitung">Verkabelung und Steuerung der MPCNC: Eine Schritt-für-Schritt-Anleitung&lt;/h2>
-&lt;p>&lt;a href="https://konstruktionsbude.de/mpcnc-verkabelung-steuerung/">https://konstruktionsbude.de/mpcnc-verkabelung-steuerung/&lt;/a>&lt;/p>
-&lt;p>A German page detailing the control of an MPCNC using an Arduino-based setup.&lt;/p>
-&lt;p>Also additional information on the MPCNC:&lt;/p>
-&lt;ul>
-&lt;li>&lt;a href="https://konstruktionsbude.de/mpcnc-primo/">https://konstruktionsbude.de/mpcnc-primo/&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://konstruktionsbude.de/mpcnc-primo-einkaufsliste/">https://konstruktionsbude.de/mpcnc-primo-einkaufsliste/&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="mpcnc-part-3">MPCNC Part 3&lt;/h2>
-&lt;p>&lt;a href="https://coeleveld.com/mpcnc-part-3/">https://coeleveld.com/mpcnc-part-3/&lt;/a>&lt;/p>
-&lt;p>Build description of an MPCNC.&lt;/p>
-&lt;h2 id="mpcnc-primo--aktuelle-einkaufsliste-für-deutschland-2025">MPCNC Primo – aktuelle Einkaufsliste für Deutschland 2025&lt;/h2>
-&lt;p>&lt;a href="https://www.frag-matze.de/heimwerken-mpcnc-primo-2020-teileliste-einkaufsliste-deutsch-deutschland">https://www.frag-matze.de/heimwerken-mpcnc-primo-2020-teileliste-einkaufsliste-deutsch-deutschland&lt;/a>&lt;/p>
-&lt;p>A current (2025) parts list for the MPCNC in Germany.&lt;/p>
-&lt;h2 id="german-supplier-of-mpcnc-parts">German supplier of MPCNC parts&lt;/h2>
-&lt;p>&lt;a href="https://www.hoerr-edelstahl.de/Restposten-Schnaeppchen-sonstige-Artikel/Rohr-Set-25-mm-Edelstahl-fuer-PRIMO-mostly-printed-MPCNC-Stangen-Arbeitsbereich.html">https://www.hoerr-edelstahl.de/Restposten-Schnaeppchen-sonstige-Artikel/Rohr-Set-25-mm-Edelstahl-fuer-PRIMO-mostly-printed-MPCNC-Stangen-Arbeitsbereich.html&lt;/a>&lt;/p></description></item><item><title>2025-07-25 - Rascal CNC</title><link>https://example.org/daily-digest/2025-07-25_rascal-cnc/</link><pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate><guid>https://example.org/daily-digest/2025-07-25_rascal-cnc/</guid><description>&lt;p>While browsing the web for information about &lt;a href="https://www.rootcnc.com/">ROOT CNC&lt;/a>, I came across an intriguing CNC design:&lt;/p>
-&lt;p>&lt;a href="https://www.nerdnic.com/rascal-cnc.html">Rascal CNC&lt;/a>&lt;/p>
-&lt;blockquote>
-&lt;p>The Rascal CNC is a hobby grade CNC machine designed BY the Community FOR the Community
-with the simple goal of being able to cut foam board airplanes.&lt;/p>
-&lt;p>Here are just a few benefits of owning a Rascal.&lt;/p>
-&lt;p>Most capable machine for the cost (under $500 USD)
-For the cost you won&amp;rsquo;t find a better suited machine to cut foam board and lite ply on its 30x30&amp;quot; (76cm) cut bed.&lt;/p></description></item><item><title>About Woodnfab</title><link>https://example.org/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/about/</guid><description>&lt;section id="td-cover-block-0" class="row td-cover-block td-cover-block--height-min js-td-cover td-overlay td-overlay--dark -bg-dark">
- &lt;div class="col-12">
- &lt;div class="container td-overlay__inner">
- &lt;div class="text-center">
- &lt;h1 class="display-1 mt-0 mt-md-5 pb-4">About Woodnfab&lt;/h1>
- 
- &lt;div class="pt-3 lead">
- 
- 
- 
- &lt;/div>
- &lt;/div>
- &lt;/div>
- &lt;/div>
- 
-&lt;/section>
-
-&lt;!-- raw HTML omitted -->
-&lt;p>Some other resources&lt;/p>
-&lt;p>My pinterest side&lt;br>
-&lt;a href="https://nl.pinterest.com/woodnfabnl/">https://nl.pinterest.com/woodnfabnl/&lt;/a>&lt;/p>
-&lt;p>My printables side&lt;br>
-&lt;a href="https://www.printables.com/@woodnfab_3569419/collections">https://www.printables.com/@woodnfab_3569419/collections&lt;/a>&lt;/p>
-&lt;!-- raw HTML omitted --></description></item><item><title>Air Compressor</title><link>https://example.org/memo/compressor/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/memo/compressor/</guid><description>&lt;p>I don&amp;rsquo;t own an air compressor yet, but I consider it an essential tool for any workshop.&lt;br>
-Below is a short overview of useful information and models I’ve found so far.&lt;/p>
-&lt;hr>
-&lt;h3 id="-general-information">📚 General Information&lt;/h3>
-&lt;h4 id="agriworldnl---2022---fluistercompressortest--de-beste-stille-compressor-stil-in-vergelijking">agriworld.nl - 2022 - Fluistercompressortest – De beste stille compressor stil in vergelijking&lt;/h4>
-&lt;p>&lt;a href="https://agriworld.nl/fluistercompressortest-de-beste-stille-compressor-stil-in-vergelijking/">https://agriworld.nl/fluistercompressortest-de-beste-stille-compressor-stil-in-vergelijking/&lt;/a>&lt;/p>
-&lt;h4 id="takkezooinl---beste-draagbare-compressor-">takkezooi.nl - Beste Draagbare Compressor ?!&lt;/h4>
-&lt;p>&lt;a href="https://www.takkezooi.nl/beste-draagbare-compressor/">https://www.takkezooi.nl/beste-draagbare-compressor/&lt;/a>&lt;/p>
-&lt;h4 id="woodworkingnl---te-koop-airpress-l6-105-silent--ecotools-bradtacker-7902">woodworking.nl - Te koop Airpress l6 105 silent + Ecotools Bradtacker 7902&lt;/h4>
-&lt;p>&lt;a href="https://www.woodworking.nl/threads/te-koop-airpress-l6-105-silent-ecotools-bradtacker-7902.44091/">https://www.woodworking.nl/threads/te-koop-airpress-l6-105-silent-ecotools-bradtacker-7902.44091/&lt;/a>&lt;br>
-&lt;em>Just here as a reference.&lt;/em>&lt;/p></description></item><item><title>Collection of 3d print</title><link>https://example.org/memo/3d/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/memo/3d/</guid><description>&lt;p>XT60 Male Plug Sleeve&lt;/p>
-&lt;p>&lt;a href="https://www.thingiverse.com/thing:7092560">https://www.thingiverse.com/thing:7092560&lt;/a>&lt;/p></description></item><item><title>Compound Slide Table</title><link>https://example.org/memo/slidetable/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/memo/slidetable/</guid><description>&lt;p>I once bought a cheap &lt;strong>compound slide table&lt;/strong> via &lt;a href="https://www.marktplaats.nl">marktplaats.nl&lt;/a> (a large second-hand website in the Netherlands).&lt;br>
-This particular one was branded &lt;strong>HBM&lt;/strong>, which is a well-known tool supplier in the Netherlands.&lt;/p>
-&lt;p>🔧 I originally wanted to use it with a column drill, or even something like a Dremel, for more precise drilling.&lt;/p>
-&lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 330px">
-&lt;img class="card-img-top" src="https://example.org/memo/slidetable/HBM_hu_79f40ede246e4ac0.jpg" width="320" height="240">
-&lt;figcaption class="card-body px-0 pt-2 pb-0">
-&lt;p class="card-text">
+&lt;hr&gt;
+&lt;h3 id="-grabcad--steel-support-for-nema-23-timing-belt"&gt;🔩 GrabCAD – Steel Support for NEMA 23 Timing Belt&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://grabcad.com/library/steel-support-for-nema-23-timming-belt-1"&gt;https://grabcad.com/library/steel-support-for-nema-23-timming-belt-1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A compact and tight belt support design.&lt;/p&gt;
+&lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 330px"&gt;
+&lt;img class="card-img-top" src="https://example.org/daily-digest/2025-08-19_cnc_related/belt_hu_96c219aa87a8d6b2.jpg" width="320" height="240"&gt;
+&lt;figcaption class="card-body px-0 pt-2 pb-0"&gt;
+&lt;p class="card-text"&gt;
 
 
+&lt;small class="text-body-secondary"&gt;&lt;br/&gt;Photo: grabcad.com&lt;/small&gt;
+&lt;/p&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-&lt;/p>
-&lt;/figcaption>
-&lt;/figure>
+&lt;hr&gt;
+&lt;h3 id="-grabcad--belt-gear-with-stepper-motor-for-cnc"&gt;🌀 GrabCAD – Belt Gear with Stepper Motor for CNC&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://grabcad.com/library/belt-gear-with-step-motor-for-cnc-1"&gt;https://grabcad.com/library/belt-gear-with-step-motor-for-cnc-1&lt;/a&gt;&lt;/p&gt;</description></item><item><title>2025-08-09 – freecad</title><link>https://example.org/blog/2025-08-09_freecad/</link><pubDate>Sat, 09 Aug 2025 12:00:00 +0000</pubDate><guid>https://example.org/blog/2025-08-09_freecad/</guid><description>&lt;h2 id="-introduction"&gt;🛠️ Introduction&lt;/h2&gt;
+&lt;p&gt;I’m exploring ways to model my ideas for a CNC machine.&lt;/p&gt;
+&lt;p&gt;So i was triggered by the idea of using AI for my design.
+Which orignially led to the combination of Ai, python and blender.&lt;/p&gt;
+&lt;p&gt;Now i want to explore the idea&amp;rsquo;s of using freeCAD&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="-youtube--links"&gt;🏗️ YouTube – Links&lt;/h3&gt;
+&lt;p&gt;Already some links i found which might be interestingen.&lt;/p&gt;
+&lt;p&gt;FreeCAD CNC series. Aluminum extrusion modelling tutorial.&lt;/p&gt;
+&lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 330px"&gt;
+ 
+ &lt;a href="https://www.youtube.com/watch?v=TqenXfqva5c" target="_blank" rel="noopener"&gt;
+ 
+ &lt;img class="card-img-top" src="https://example.org/blog/2025-08-09_freecad/alu_extrution_hu_edf42aff6ac7c912.jpg" width="320" height="180"&gt;
+ 
+ &lt;/a&gt;
+ 
+ &lt;/figure&gt;
 
-&lt;p>⚠️ However, it felt too flimsy, so I started looking for sturdier versions. Luckily, there are several models available, with prices ranging from &lt;strong>€30 to about €100&lt;/strong>.&lt;/p></description></item><item><title>Electronic casings</title><link>https://example.org/memo/boxdesign/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/memo/boxdesign/</guid><description>&lt;p>One of things i want to have more experience with 3d printing is to better manufacter and also created electronix boxes.&lt;/p>
-&lt;hr>
-&lt;h3 id="-the-ultimate-box-maker">📌 The Ultimate Box Maker&lt;/h3>
-&lt;p>&lt;a href="https://www.thingiverse.com/thing:1264391">Thingiverse – Box Maker&lt;/a>&lt;/p></description></item><item><title>MindSparx Full-Size CNC</title><link>https://example.org/docs/knowledgebase/cnc/diy/inspiration/mindsparx/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/knowledgebase/cnc/diy/inspiration/mindsparx/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
-&lt;p>&lt;a href="https://www.youtube.com/watch?v=iIKaBGbAQsc">Watch the video&lt;/a>&lt;/p>
-&lt;p>This project shows how to build a &lt;strong>full-size, powerful, and fast CNC machine&lt;/strong> for around &lt;strong>€500&lt;/strong>. With smart component choices and an efficient design, it’s an achievable project for many DIY builders.&lt;/p>
-&lt;p>At around &lt;strong>18:15&lt;/strong> in the video, the drive belt setup is explained:&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Belt type:&lt;/strong> HTD 3M, 15 mm wide, steel core&lt;/li>
-&lt;li>&lt;strong>Pulley:&lt;/strong> 15 teeth&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h2 id="parts-mentioned-in-the-video">Parts Mentioned in the Video&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://amzn.to/3EfIRiB">7 m HTD 3M timing belt (15 mm wide)&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://amzn.to/4hAN7YA">Set of 3 timing belt pulleys (6.35 mm shaft, 15 teeth)&lt;/a>
-&lt;blockquote>
-&lt;p>Tip: You can choose pulleys with fewer or more teeth to adjust the gear ratio.&lt;/p></description></item><item><title>My ROOT CNC</title><link>https://example.org/memo/myrootcnc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/memo/myrootcnc/</guid><description>&lt;p>I recently bought a used ROOT CNC machine on the local marketplace.&lt;br>
-It needs some repairs — a few parts are broken — and it looks like the previous owner made some modifications.&lt;/p>
-&lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 310px">
-&lt;img class="card-img-top" src="https://example.org/memo/myrootcnc/featured-root_hu_33bd3fd66b5ea3ea.jpg" width="300" height="225">
-&lt;figcaption class="card-body px-0 pt-2 pb-0">
-&lt;p class="card-text">
+&lt;p&gt;FreeCAD Part Scripting in Python Episode 025&lt;br&gt;
+&lt;a href="https://www.youtube.com/watch?v=yp6yBTcdcII"&gt;https://www.youtube.com/watch?v=yp6yBTcdcII&lt;/a&gt;&lt;/p&gt;</description></item><item><title>2025-08-09 – Blender AI Conclusion</title><link>https://example.org/blog/2025-08-09_blender_ai_conclusion/</link><pubDate>Sat, 09 Aug 2025 10:00:00 +0000</pubDate><guid>https://example.org/blog/2025-08-09_blender_ai_conclusion/</guid><description>&lt;h2 id="-introduction"&gt;🛠️ Introduction&lt;/h2&gt;
+&lt;p&gt;I’m exploring ways to model my ideas for a CNC machine.&lt;/p&gt;
+&lt;p&gt;In a &lt;a href="https://example.org/blog/2025-08-05_blender_ai"&gt;previous blog&lt;/a&gt; I experimented with AI and Blender to create an aluminium frame.&lt;br&gt;
+I chose Blender because AI could generate Python scripts for it.&lt;/p&gt;
+&lt;p&gt;During my research, I discovered that FreeCAD also supports Python scripting.&lt;br&gt;
+Although Blender can be used for CAD-like tasks and 3D design, I think FreeCAD might be a better fit for my next steps.&lt;/p&gt;</description></item><item><title>2025-08-09 – Design Ideas</title><link>https://example.org/daily-digest/2025-08-09_design_ideas/</link><pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/daily-digest/2025-08-09_design_ideas/</guid><description>&lt;p&gt;💡 &lt;strong&gt;Some design ideas I came across just for inspiration.&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="-pinterest--wood-pc-systems"&gt;🖼 Pinterest – Wood PC Systems&lt;/h3&gt;
+&lt;p&gt;Simple wooden PC setups — could be an idea for the CNC power supply housing.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://mx.pinterest.com/pin/93168286035928711/"&gt;https://mx.pinterest.com/pin/93168286035928711/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://i.pinimg.com/70x/bd/4d/88/bd4d88a535094b9f26664ee2822ecd90.jpg" alt="Wood PC System"&gt;&lt;br&gt;
+&lt;em&gt;Photo: Pinterest&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="-pinterest--rino-belt-drive"&gt;⚙ Pinterest – Rino Belt Drive&lt;/h3&gt;
+&lt;p&gt;Example of a large-format CNC router belt drive.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://mx.pinterest.com/pin/560416747404184089/"&gt;https://mx.pinterest.com/pin/560416747404184089/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Also described on Instructables:&lt;br&gt;
+&lt;a href="https://www.instructables.com/Rino-Rout-Belt-Drive-Large-Format-CNC-Router/"&gt;https://www.instructables.com/Rino-Rout-Belt-Drive-Large-Format-CNC-Router/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://i.pinimg.com/70x/24/57/e2/2457e2ed1a9375a6c7fad7eda469f242.jpg" alt="Rino Belt Drive"&gt;&lt;br&gt;
+&lt;em&gt;Photo: Pinterest&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="-pinterest--cnc-pins-overview"&gt;📌 Pinterest – CNC Pins Overview&lt;/h3&gt;
+&lt;p&gt;Nice collection of CNC-related pins from other makers:&lt;/p&gt;</description></item><item><title>2025-08-04 – Blender AI</title><link>https://example.org/blog/2025-08-05_blender_ai/</link><pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/blog/2025-08-05_blender_ai/</guid><description>&lt;h2 id="-introduction"&gt;🛠️ Introduction&lt;/h2&gt;
+&lt;p&gt;I’m exploring ways to model my ideas for a CNC machine.
+While searching, I came across this 🎥 &lt;a href="https://www.youtube.com/watch?v=x60zHw_z4NM"&gt;YouTube video&lt;/a&gt; introducing an interesting workflow that combines ChatGPT with Blender.&lt;/p&gt;
+&lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 330px"&gt;
+ 
+ &lt;a href="#ZgotmplZ" target="_blank" rel="noopener"&gt;
+ 
+ &lt;img class="card-img-top" src="https://example.org/blog/2025-08-05_blender_ai/youtube_hu_50527c22945d7bed.jpg" width="320" height="180"&gt;
+ 
+ &lt;/a&gt;
+ 
+ &lt;/figure&gt;
+
+&lt;p&gt;To start experimenting, I want to see if I can model a base frame using &lt;strong&gt;30-series aluminium profiles&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;For additional Blender inspiration, I also found this 📝 &lt;a href="https://www.rab3d.com/tut_blender.php"&gt;Rab3D tutorial&lt;/a&gt;.
+Hopefully, the creator will continue updating his progress.&lt;/p&gt;</description></item><item><title>2025-08-05 – CNC Related</title><link>https://example.org/daily-digest/2025-08-05_cnc_related/</link><pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/daily-digest/2025-08-05_cnc_related/</guid><description>&lt;p&gt;A quick look at some CNC-related content I explored today.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="-youtube--diy-cnc-your-questions-answered-and-what-id-do-differently"&gt;🔥 YouTube – DIY CNC: Your Questions Answered (and What I’d Do Differently)&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=nlWXileUSbU"&gt;https://www.youtube.com/watch?v=nlWXileUSbU&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is a follow-up to the first video about my DIY CNC router. Here I answer some of the frequently asked questions I received in the comments on that video. If you have any additional questions, let me know!&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;In question 5, I talk about the bits I like to use. My main choices are:&lt;/p&gt;</description></item><item><title>2025-08-04 – CNC Related</title><link>https://example.org/daily-digest/2025-08-04_cnc_related/</link><pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/daily-digest/2025-08-04_cnc_related/</guid><description>&lt;p&gt;A quick look at some CNC-related content I explored today.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="-youtube--150-cnc-plasma-table-build--easy-quick-and-cost-effective"&gt;🔥 YouTube – £150 CNC Plasma Table Build – Easy, Quick and Cost Effective&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=xVZZfx9KPlc"&gt;https://www.youtube.com/watch?v=xVZZfx9KPlc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Next-level metal cutting.&lt;br&gt;
+I especially liked the use of a tablet and the clear G-code explanation.&lt;/p&gt;
+&lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 330px"&gt;
+ 
+ &lt;a href="https://www.youtube.com/watch?v=xVZZfx9KPlc" target="_blank" rel="noopener"&gt;
+ 
+ &lt;img class="card-img-top" src="https://example.org/daily-digest/2025-08-04_cnc_related/plasma_hu_2e44c9ec13505305.jpg" width="320" height="180"&gt;
+ 
+ &lt;/a&gt;
+ 
+ &lt;figcaption class="card-body px-0 pt-2 pb-0"&gt;
+ &lt;p class="card-text"&gt;
+ 
+&lt;small class="text-body-secondary"&gt;&lt;br/&gt;Photo: youtube.com&lt;/small&gt;
+ &lt;/p&gt;
+ &lt;/figcaption&gt;
+ &lt;/figure&gt;
+
+&lt;hr&gt;
+&lt;h3 id="-youtube--topscnc-heavy--the-big-3d-printed-cnc-diy"&gt;🖨️ YouTube – TopsCNC Heavy – The Big 3D Printed CNC DIY&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=wIgIz47WK7Y"&gt;https://www.youtube.com/watch?v=wIgIz47WK7Y&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nice printed CNC and a great build video.&lt;br&gt;
+Good for design inspiration.&lt;/p&gt;</description></item><item><title>2025-08-03 – CNC Related</title><link>https://example.org/daily-digest/2025-08-03_cnc_related/</link><pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/daily-digest/2025-08-03_cnc_related/</guid><description>&lt;p&gt;A quick look at some CNC-related content I explored today.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="-rootcnc--overall-average-costs-for-complete-builds-ready-to-run"&gt;📊 RootCNC – Overall Average Costs for Complete Builds (Ready to Run)&lt;/h3&gt;
+&lt;p&gt;Discussion on RootCNC Discourse&lt;br&gt;
+&lt;a href="https://rootcnc.discourse.group/t/overall-average-costs-for-complete-builds-ready-to-run/216"&gt;https://rootcnc.discourse.group/t/overall-average-costs-for-complete-builds-ready-to-run/216&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;but here is a rough costing for the machines:&lt;br&gt;
+4 ~£1200 but mine is a considerably larger machine so saving can be made here!&lt;br&gt;
+4 Lite £450-550&lt;br&gt;
+3 Lite £450-530&lt;br&gt;
+3 Unsure its been a while&lt;br&gt;
+Root 2 is not recommended as the newer machine out perform it.&lt;/p&gt;</description></item><item><title>2025-08-02 – CNC Related</title><link>https://example.org/daily-digest/2025-08-02_cnc_related/</link><pubDate>Sat, 02 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/daily-digest/2025-08-02_cnc_related/</guid><description>&lt;p&gt;A quick look at some interesting CNC-related content I explored today.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="-youtube--openbuilds-lead-1515-electronics--software-using-blackbox"&gt;📺 YouTube – OpenBuilds LEAD 1515 Electronics &amp;amp; Software (Using BlackBox)&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=xxyA5WftF8k"&gt;https://www.youtube.com/watch?v=xxyA5WftF8k&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A detailed build video covering the OpenBuilds LEAD 1515, with a focus on electronics, wiring, and software setup using the BlackBox controller.&lt;br&gt;
+A solid reference if you’re planning a similar build or want to understand the workflow from assembly to operation.&lt;/p&gt;
+&lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 330px"&gt;
+ 
+ &lt;a href="https://www.youtube.com/watch?v=xxyA5WftF8k" target="_blank" rel="noopener"&gt;
+ 
+ &lt;img class="card-img-top" src="https://example.org/daily-digest/2025-08-02_cnc_related/openbuilds-lead_hu_32986d386ee07759.jpg" width="320" height="180"&gt;
+ 
+ &lt;/a&gt;
+ 
+ &lt;figcaption class="card-body px-0 pt-2 pb-0"&gt;
+ &lt;p class="card-text"&gt;
+ 
+&lt;small class="text-body-secondary"&gt;&lt;br/&gt;Photo: youtube.com&lt;/small&gt;
+ &lt;/p&gt;</description></item><item><title>2025-07-29 – CNC Related</title><link>https://example.org/daily-digest/2025-07-29_cnc_related/</link><pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate><guid>https://example.org/daily-digest/2025-07-29_cnc_related/</guid><description>&lt;p&gt;An overview of interesting CNC-related links I explored today.&lt;/p&gt;
+&lt;h3 id="-youtube---the-ultimate-onefinity-cnc-setup---spoilboard-cart-vertical-table---400"&gt;📺 Youtube - The Ultimate OneFinity CNC Setup - Spoilboard, Cart, Vertical Table - 400&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=Dvur03ZA3vU"&gt;https://www.youtube.com/watch?v=Dvur03ZA3vU&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Create description on make a table, spoilboard and fence&lt;/p&gt;
+&lt;h3 id="-youtube---stainless-ox-cnc-work-surface-and-spoil-board"&gt;📺 Youtube - Stainless OX CNC work surface and spoil board&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=Inl28tvREKU"&gt;https://www.youtube.com/watch?v=Inl28tvREKU&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;How I made the work surface and spoil board for my DIY Stainless OX CNC machine. Design in Sketchup and generation of G-code using CamBam and finally cutting the parts on the Stainless OX.
+For more info check: &lt;a href="https://forum.makersupplies.dk/listin"&gt;https://forum.makersupplies.dk/listin&lt;/a&gt;&amp;hellip;&lt;/p&gt;</description></item><item><title>2025-07-27 – CNC Related</title><link>https://example.org/daily-digest/2025-07-27_cnc_related/</link><pubDate>Sun, 27 Jul 2025 00:00:00 +0000</pubDate><guid>https://example.org/daily-digest/2025-07-27_cnc_related/</guid><description>&lt;p&gt;An overview of interesting CNC-related links I explored today.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="-youtube--riesen-diy-cnc-fräse-mit-1000x2000mm-mit-v-slot-profilen-für-unter-700-bauen"&gt;📺 YouTube – &lt;em&gt;Riesen DIY CNC Fräse mit 1000x2000mm mit V-Slot Profilen für unter 700€ bauen&lt;/em&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=EuOvwwP2x9A"&gt;https://www.youtube.com/watch?v=EuOvwwP2x9A&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Aufbau und Funktion meiner riesigen #diy #cnc für Holzprojekte aus V-Slot Profilen. Powered by Estlcam, Arduino UNO und CNC Shield.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;A large-scale DIY CNC router made with V-slot profiles, driven by Estlcam and Arduino. Very affordable setup under €700.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="-youtube--die-open-source-fräse-das-endchen"&gt;📺 YouTube – &lt;em&gt;Die Open Source Fräse: Das Endchen&lt;/em&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=FVFT421XhG4"&gt;https://www.youtube.com/watch?v=FVFT421XhG4&lt;/a&gt;&lt;/p&gt;</description></item><item><title>2025-07-26 - CNC Related</title><link>https://example.org/daily-digest/2025-07-26_cnc_related/</link><pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate><guid>https://example.org/daily-digest/2025-07-26_cnc_related/</guid><description>&lt;p&gt;An overview of interesting links from today.&lt;/p&gt;
+&lt;h2 id="website--cnc-workflow-using-cncjs"&gt;Website – CNC Workflow Using CNCjs&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://makerhardware.net/knowledge-base/how-to-guides/cnc-workflow-using-cncjs/"&gt;https://makerhardware.net/knowledge-base/how-to-guides/cnc-workflow-using-cncjs/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A helpful tutorial on using CNCjs for engraving.&lt;/p&gt;
+&lt;h2 id="youtube--how-to-build-a-large-cnc-router-arduino-grbl--ugs"&gt;YouTube – How to Build a Large CNC Router (Arduino GRBL + UGS)&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=DF_1bY8aJbc"&gt;https://www.youtube.com/watch?v=DF_1bY8aJbc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A great build video showing how to create a large CNC router using an Arduino, GRBL, and Universal G-Code Sender (UGS).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Highlighted comment:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;As somebody about to undertake building my own CNC router, this is the best video that breaks down the basic component design of the table. Mine will be different but this paints such a good picture for a starting point. Excellent work.&lt;/p&gt;</description></item><item><title>2025-07-26 - MPCNC related</title><link>https://example.org/daily-digest/2025-07-26_mpcnc/</link><pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate><guid>https://example.org/daily-digest/2025-07-26_mpcnc/</guid><description>&lt;p&gt;An overview of interesting links from today.&lt;/p&gt;
+&lt;h2 id="verkabelung-und-steuerung-der-mpcnc-eine-schritt-für-schritt-anleitung"&gt;Verkabelung und Steuerung der MPCNC: Eine Schritt-für-Schritt-Anleitung&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://konstruktionsbude.de/mpcnc-verkabelung-steuerung/"&gt;https://konstruktionsbude.de/mpcnc-verkabelung-steuerung/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A German page detailing the control of an MPCNC using an Arduino-based setup.&lt;/p&gt;
+&lt;p&gt;Also additional information on the MPCNC:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://konstruktionsbude.de/mpcnc-primo/"&gt;https://konstruktionsbude.de/mpcnc-primo/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://konstruktionsbude.de/mpcnc-primo-einkaufsliste/"&gt;https://konstruktionsbude.de/mpcnc-primo-einkaufsliste/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="mpcnc-part-3"&gt;MPCNC Part 3&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://coeleveld.com/mpcnc-part-3/"&gt;https://coeleveld.com/mpcnc-part-3/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Build description of an MPCNC.&lt;/p&gt;
+&lt;h2 id="mpcnc-primo--aktuelle-einkaufsliste-für-deutschland-2025"&gt;MPCNC Primo – aktuelle Einkaufsliste für Deutschland 2025&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.frag-matze.de/heimwerken-mpcnc-primo-2020-teileliste-einkaufsliste-deutsch-deutschland"&gt;https://www.frag-matze.de/heimwerken-mpcnc-primo-2020-teileliste-einkaufsliste-deutsch-deutschland&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A current (2025) parts list for the MPCNC in Germany.&lt;/p&gt;
+&lt;h2 id="german-supplier-of-mpcnc-parts"&gt;German supplier of MPCNC parts&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.hoerr-edelstahl.de/Restposten-Schnaeppchen-sonstige-Artikel/Rohr-Set-25-mm-Edelstahl-fuer-PRIMO-mostly-printed-MPCNC-Stangen-Arbeitsbereich.html"&gt;https://www.hoerr-edelstahl.de/Restposten-Schnaeppchen-sonstige-Artikel/Rohr-Set-25-mm-Edelstahl-fuer-PRIMO-mostly-printed-MPCNC-Stangen-Arbeitsbereich.html&lt;/a&gt;&lt;/p&gt;</description></item><item><title>2025-07-25 - Rascal CNC</title><link>https://example.org/daily-digest/2025-07-25_rascal-cnc/</link><pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate><guid>https://example.org/daily-digest/2025-07-25_rascal-cnc/</guid><description>&lt;p&gt;While browsing the web for information about &lt;a href="https://www.rootcnc.com/"&gt;ROOT CNC&lt;/a&gt;, I came across an intriguing CNC design:&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.nerdnic.com/rascal-cnc.html"&gt;Rascal CNC&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The Rascal CNC is a hobby grade CNC machine designed BY the Community FOR the Community
+with the simple goal of being able to cut foam board airplanes.&lt;/p&gt;
+&lt;p&gt;Here are just a few benefits of owning a Rascal.&lt;/p&gt;
+&lt;p&gt;Most capable machine for the cost (under $500 USD)
+For the cost you won&amp;rsquo;t find a better suited machine to cut foam board and lite ply on its 30x30&amp;quot; (76cm) cut bed.&lt;/p&gt;</description></item><item><title>About Woodnfab</title><link>https://example.org/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/about/</guid><description>&lt;section id="td-cover-block-0" class="row td-cover-block td-cover-block--height-min js-td-cover td-overlay td-overlay--dark -bg-dark"&gt;
+ &lt;div class="col-12"&gt;
+ &lt;div class="container td-overlay__inner"&gt;
+ &lt;div class="text-center"&gt;
+ &lt;h1 class="display-1 mt-0 mt-md-5 pb-4"&gt;About Woodnfab&lt;/h1&gt;
+ 
+ &lt;div class="pt-3 lead"&gt;
+ 
+ 
+ 
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ 
+&lt;/section&gt;
+
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Some other resources&lt;/p&gt;
+&lt;p&gt;My pinterest side&lt;br&gt;
+&lt;a href="https://nl.pinterest.com/woodnfabnl/"&gt;https://nl.pinterest.com/woodnfabnl/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;My printables side&lt;br&gt;
+&lt;a href="https://www.printables.com/@woodnfab_3569419/collections"&gt;https://www.printables.com/@woodnfab_3569419/collections&lt;/a&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;</description></item><item><title>Air Compressor</title><link>https://example.org/memo/compressor/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/memo/compressor/</guid><description>&lt;p&gt;I don&amp;rsquo;t own an air compressor yet, but I consider it an essential tool for any workshop.&lt;br&gt;
+Below is a short overview of useful information, tests, and models I’ve found so far.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="-youtube---quietest--fastest-compressor-ever-tested"&gt;🎥 YouTube - Quietest &amp;amp; Fastest Compressor Ever Tested!&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=a3hMRQZudiE"&gt;https://www.youtube.com/watch?v=a3hMRQZudiE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This video creates an overview of small compressors. It also shows that selecting the right one is not easy.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Top three models mentioned:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;DeWalt&lt;/li&gt;
+&lt;li&gt;Husky&lt;/li&gt;
+&lt;li&gt;Fornax&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;👉 What I find strange: the DeWalt compressor doesn’t seem to have an intake air filter (or at least, I couldn’t find it in the manual).&lt;/p&gt;</description></item><item><title>Collection of 3d print</title><link>https://example.org/memo/3d/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/memo/3d/</guid><description>&lt;p&gt;XT60 Male Plug Sleeve&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.thingiverse.com/thing:7092560"&gt;https://www.thingiverse.com/thing:7092560&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Compound Slide Table</title><link>https://example.org/memo/slidetable/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/memo/slidetable/</guid><description>&lt;p&gt;I once bought a cheap &lt;strong&gt;compound slide table&lt;/strong&gt; via &lt;a href="https://www.marktplaats.nl"&gt;marktplaats.nl&lt;/a&gt; (a large second-hand website in the Netherlands).&lt;br&gt;
+This particular one was branded &lt;strong&gt;HBM&lt;/strong&gt;, which is a well-known tool supplier in the Netherlands.&lt;/p&gt;
+&lt;p&gt;🔧 I originally wanted to use it with a column drill, or even something like a Dremel, for more precise drilling.&lt;/p&gt;
+&lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 330px"&gt;
+&lt;img class="card-img-top" src="https://example.org/memo/slidetable/HBM_hu_79f40ede246e4ac0.jpg" width="320" height="240"&gt;
+&lt;figcaption class="card-body px-0 pt-2 pb-0"&gt;
+&lt;p class="card-text"&gt;
 
 
 
-&lt;/p>
-&lt;/figcaption>
-&lt;/figure>
+&lt;/p&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-&lt;p>This memo is a place to collect reference links and notes related to this machine.&lt;/p>
-&lt;hr>
-&lt;h3 id="-3d-printed-parts">🧩 3D Printed Parts&lt;/h3>
-&lt;h4 id="-z-carriage-system-for-root-3-cnc-or-similar-machines">📌 Z-Carriage System for ROOT 3 CNC (or similar machines)&lt;/h4>
-&lt;p>&lt;a href="https://www.thingiverse.com/thing:2778538">Thingiverse – Carriage Z System for 52mm &amp;amp; 65mm Spindle (in progress)&lt;/a>&lt;/p></description></item><item><title>Openbuild build video</title><link>https://example.org/docs/media/cnc/openbuild_build_video/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/media/cnc/openbuild_build_video/</guid><description>&lt;h2 id="ooznest-workbee">Ooznest Workbee&lt;/h2>
-&lt;p>Build video&amp;rsquo;s of an ooznest Workbee Z1+ by Irish woordworker Tommy&lt;/p>
-&lt;ul>
-&lt;li>&lt;a href="https://www.youtube.com/watch?v=fGqGEgiGr-k">Ooznest Workbee Z1+ CNC Build Part 1/ What You Get In The Kit&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/watch?v=Zbh1HF6lwnM">Building A Workbee Z1+ CNC Part 2 / Wheels And Y-Plate Assembly&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/watch?v=3RRMfu3nC5A">Building A Workbee Z1+ CNC Part 3 / X-Carriage Assembly&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/watch?v=Mh1DKLgZ3ZE">Building A Workbee Z1+ CNC Part 4 / Mechanical Assembly Completed&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/watch?v=1MgonULTbdA&amp;amp;t=1137s">Building A Workbee Z1+ CNC Part 5 / Build is Finished&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/watch?v=W2uBkrMc_yI">My First Project On The Workbee Z1+ CNC &lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>Interesting parts&lt;/p></description></item><item><title>Openbuild builds</title><link>https://example.org/docs/media/cnc/openbuild_builds/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/media/cnc/openbuild_builds/</guid><description>&lt;p>Some interesting builds on openbuilds community&lt;/p>
-&lt;h2 id="ooznest-workbee-750-x-750">Ooznest WorkBee 750 x 750&lt;/h2>
-&lt;p>&lt;a href="https://builds.openbuilds.com/builds/workbee-cnc-build-my-honest-opinion-tips-and-help.6407/">WorkBee 750 x 750 from Ooznest&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://builds.openbuilds.com/builds/workbee-cnc-build-my-honest-opinion-tips-and-help.6407">&lt;img src="https://example.org/images/openbuilds/openbuild_6407_thumb.jpg" alt="CNC Thumbnail">&lt;/a>&lt;/p>
-&lt;p>Nice build review also handy startup description to start with 2d and a pen.&lt;/p></description></item><item><title>Root 3 CNC</title><link>https://example.org/docs/knowledgebase/cnc/diy/inspiration/root/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/knowledgebase/cnc/diy/inspiration/root/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
-&lt;p>The &lt;strong>Root 3 CNC&lt;/strong> is an open-source, belt-driven 3-axis machine and the successor to Root 2.1.&lt;br>
-For videos and a general intro, see the &lt;a href="https://example.org/docs/knowledgebase/cnc/diy/inspiration/">DIY CNC Designs – Inspiration&lt;/a> page.&lt;/p>
-&lt;hr>
-&lt;h2 id="belts-bom">Belts (BOM)&lt;/h2>
-&lt;p>Source: &lt;a href="https://wiki.rootcnc.com/en/Root-3/BOM">Root CNC Wiki – BOM&lt;/a>&lt;/p>
-&lt;ul>
-&lt;li>
-&lt;p>&lt;strong>HTD-3M timing belt (open-ended)&lt;/strong> — “3M HTD Belt”&lt;br>
-Pitch: 3 mm · Width: &lt;strong>9 mm&lt;/strong> · Length: as required (open belt for axes)&lt;br>
-&lt;em>Rule of thumb:&lt;/em> order at least &lt;strong>2× Y-axis travel + 1× X-axis travel&lt;/strong>, plus &lt;strong>5–10%&lt;/strong> extra for tensioning.&lt;/p></description></item><item><title>Specifications</title><link>https://example.org/docs/tools/ratrig-killerbee/specs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/tools/ratrig-killerbee/specs/</guid><description>&lt;p>This page contains technical specifications of the Killerbee CNC.&lt;/p></description></item><item><title>Specifications</title><link>https://example.org/docs/tools/rootcnc/specs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/tools/rootcnc/specs/</guid><description>&lt;p>This page contains technical specifications of the Root CNC.&lt;/p>
-&lt;h1 id="stepper-motors">Stepper Motors&lt;/h1>
-&lt;p>ACT MOTOR 23HS6620B 1.8 2.0A&lt;br>
-Axis 6.35&lt;/p>
-&lt;p>&lt;a href="https://example.org/datasheet/tools/rootcnc/ACT_MOTOR_23HS6620B.jpg">datasheet&lt;/a>&lt;/p>
-&lt;p>[&lt;img src="https://example.org/images/tools/rootcnc/nmea23.jpg" alt="NMEA23">]&lt;/p>
-&lt;p>JKONGMOTOR JK42HS48-1684-08AF&lt;br>
-Axis 4.5mm&lt;/p>
-&lt;p>&lt;a href="https://example.org/datasheet/tools/rootcnc/JK42HS48-1684-08AF.pdf">datasheet&lt;/a>&lt;/p>
-&lt;p>[&lt;img src="https://example.org/images/tools/rootcnc/nmea17.jpg" alt="NMEA17">]&lt;/p></description></item><item><title>Upgrades</title><link>https://example.org/docs/tools/ratrig-killerbee/upgrades/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/tools/ratrig-killerbee/upgrades/</guid><description>&lt;p>Planned and applied upgrades to the Killerbee.&lt;/p></description></item></channel></rss>
+&lt;p&gt;⚠️ However, it felt too flimsy, so I started looking for sturdier versions. Luckily, there are several models available, with prices ranging from &lt;strong&gt;€30 to about €100&lt;/strong&gt;.&lt;/p&gt;</description></item><item><title>Electronic casings</title><link>https://example.org/memo/boxdesign/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/memo/boxdesign/</guid><description>&lt;p&gt;One of things i want to have more experience with 3d printing is to better manufacter and also created electronix boxes.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="-the-ultimate-box-maker"&gt;📌 The Ultimate Box Maker&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://www.thingiverse.com/thing:1264391"&gt;Thingiverse – Box Maker&lt;/a&gt;&lt;/p&gt;</description></item><item><title>MindSparx Full-Size CNC</title><link>https://example.org/docs/knowledgebase/cnc/diy/inspiration/mindsparx/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/knowledgebase/cnc/diy/inspiration/mindsparx/</guid><description>&lt;h2 id="overview"&gt;Overview&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=iIKaBGbAQsc"&gt;Watch the video&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This project shows how to build a &lt;strong&gt;full-size, powerful, and fast CNC machine&lt;/strong&gt; for around &lt;strong&gt;€500&lt;/strong&gt;. With smart component choices and an efficient design, it’s an achievable project for many DIY builders.&lt;/p&gt;
+&lt;p&gt;At around &lt;strong&gt;18:15&lt;/strong&gt; in the video, the drive belt setup is explained:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Belt type:&lt;/strong&gt; HTD 3M, 15 mm wide, steel core&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pulley:&lt;/strong&gt; 15 teeth&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="parts-mentioned-in-the-video"&gt;Parts Mentioned in the Video&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://amzn.to/3EfIRiB"&gt;7 m HTD 3M timing belt (15 mm wide)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://amzn.to/4hAN7YA"&gt;Set of 3 timing belt pulleys (6.35 mm shaft, 15 teeth)&lt;/a&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Tip: You can choose pulleys with fewer or more teeth to adjust the gear ratio.&lt;/p&gt;</description></item><item><title>My ROOT CNC</title><link>https://example.org/memo/myrootcnc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/memo/myrootcnc/</guid><description>&lt;p&gt;I recently bought a used ROOT CNC machine on the local marketplace.&lt;br&gt;
+It needs some repairs — a few parts are broken — and it looks like the previous owner made some modifications.&lt;/p&gt;
+&lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 310px"&gt;
+&lt;img class="card-img-top" src="https://example.org/memo/myrootcnc/featured-root_hu_33bd3fd66b5ea3ea.jpg" width="300" height="225"&gt;
+&lt;figcaption class="card-body px-0 pt-2 pb-0"&gt;
+&lt;p class="card-text"&gt;
+
+
+
+&lt;/p&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This memo is a place to collect reference links and notes related to this machine.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="-3d-printed-parts"&gt;🧩 3D Printed Parts&lt;/h3&gt;
+&lt;h4 id="-z-carriage-system-for-root-3-cnc-or-similar-machines"&gt;📌 Z-Carriage System for ROOT 3 CNC (or similar machines)&lt;/h4&gt;
+&lt;p&gt;&lt;a href="https://www.thingiverse.com/thing:2778538"&gt;Thingiverse – Carriage Z System for 52mm &amp;amp; 65mm Spindle (in progress)&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Openbuild build video</title><link>https://example.org/docs/media/cnc/openbuild_build_video/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/media/cnc/openbuild_build_video/</guid><description>&lt;h2 id="ooznest-workbee"&gt;Ooznest Workbee&lt;/h2&gt;
+&lt;p&gt;Build video&amp;rsquo;s of an ooznest Workbee Z1+ by Irish woordworker Tommy&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=fGqGEgiGr-k"&gt;Ooznest Workbee Z1+ CNC Build Part 1/ What You Get In The Kit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=Zbh1HF6lwnM"&gt;Building A Workbee Z1+ CNC Part 2 / Wheels And Y-Plate Assembly&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=3RRMfu3nC5A"&gt;Building A Workbee Z1+ CNC Part 3 / X-Carriage Assembly&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=Mh1DKLgZ3ZE"&gt;Building A Workbee Z1+ CNC Part 4 / Mechanical Assembly Completed&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=1MgonULTbdA&amp;amp;t=1137s"&gt;Building A Workbee Z1+ CNC Part 5 / Build is Finished&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=W2uBkrMc_yI"&gt;My First Project On The Workbee Z1+ CNC &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Interesting parts&lt;/p&gt;</description></item><item><title>Openbuild builds</title><link>https://example.org/docs/media/cnc/openbuild_builds/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/media/cnc/openbuild_builds/</guid><description>&lt;p&gt;Some interesting builds on openbuilds community&lt;/p&gt;
+&lt;h2 id="ooznest-workbee-750-x-750"&gt;Ooznest WorkBee 750 x 750&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://builds.openbuilds.com/builds/workbee-cnc-build-my-honest-opinion-tips-and-help.6407/"&gt;WorkBee 750 x 750 from Ooznest&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://builds.openbuilds.com/builds/workbee-cnc-build-my-honest-opinion-tips-and-help.6407"&gt;&lt;img src="https://example.org/images/openbuilds/openbuild_6407_thumb.jpg" alt="CNC Thumbnail"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nice build review also handy startup description to start with 2d and a pen.&lt;/p&gt;</description></item><item><title>Root 3 CNC</title><link>https://example.org/docs/knowledgebase/cnc/diy/inspiration/root/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/knowledgebase/cnc/diy/inspiration/root/</guid><description>&lt;h2 id="overview"&gt;Overview&lt;/h2&gt;
+&lt;p&gt;The &lt;strong&gt;Root 3 CNC&lt;/strong&gt; is an open-source, belt-driven 3-axis machine and the successor to Root 2.1.&lt;br&gt;
+For videos and a general intro, see the &lt;a href="https://example.org/docs/knowledgebase/cnc/diy/inspiration/"&gt;DIY CNC Designs – Inspiration&lt;/a&gt; page.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="belts-bom"&gt;Belts (BOM)&lt;/h2&gt;
+&lt;p&gt;Source: &lt;a href="https://wiki.rootcnc.com/en/Root-3/BOM"&gt;Root CNC Wiki – BOM&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;HTD-3M timing belt (open-ended)&lt;/strong&gt; — “3M HTD Belt”&lt;br&gt;
+Pitch: 3 mm · Width: &lt;strong&gt;9 mm&lt;/strong&gt; · Length: as required (open belt for axes)&lt;br&gt;
+&lt;em&gt;Rule of thumb:&lt;/em&gt; order at least &lt;strong&gt;2× Y-axis travel + 1× X-axis travel&lt;/strong&gt;, plus &lt;strong&gt;5–10%&lt;/strong&gt; extra for tensioning.&lt;/p&gt;</description></item><item><title>Specifications</title><link>https://example.org/docs/tools/ratrig-killerbee/specs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/tools/ratrig-killerbee/specs/</guid><description>&lt;p&gt;This page contains technical specifications of the Killerbee CNC.&lt;/p&gt;</description></item><item><title>Specifications</title><link>https://example.org/docs/tools/rootcnc/specs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/tools/rootcnc/specs/</guid><description>&lt;p&gt;This page contains technical specifications of the Root CNC.&lt;/p&gt;
+&lt;h1 id="stepper-motors"&gt;Stepper Motors&lt;/h1&gt;
+&lt;p&gt;ACT MOTOR 23HS6620B 1.8 2.0A&lt;br&gt;
+Axis 6.35&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://example.org/datasheet/tools/rootcnc/ACT_MOTOR_23HS6620B.jpg"&gt;datasheet&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[&lt;img src="https://example.org/images/tools/rootcnc/nmea23.jpg" alt="NMEA23"&gt;]&lt;/p&gt;
+&lt;p&gt;JKONGMOTOR JK42HS48-1684-08AF&lt;br&gt;
+Axis 4.5mm&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://example.org/datasheet/tools/rootcnc/JK42HS48-1684-08AF.pdf"&gt;datasheet&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[&lt;img src="https://example.org/images/tools/rootcnc/nmea17.jpg" alt="NMEA17"&gt;]&lt;/p&gt;</description></item><item><title>Upgrades</title><link>https://example.org/docs/tools/ratrig-killerbee/upgrades/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/tools/ratrig-killerbee/upgrades/</guid><description>&lt;p&gt;Planned and applied upgrades to the Killerbee.&lt;/p&gt;</description></item></channel></rss>

@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mekanika CNC on Wood 'n Fab</title><link>https://example.org/tags/mekanika-cnc/</link><description>Recent content in Mekanika CNC on Wood 'n Fab</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 28 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/mekanika-cnc/index.xml" rel="self" type="application/rss+xml"/><item><title>Rootanika</title><link>https://example.org/memo/rootanikacnc/</link><pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate><guid>https://example.org/memo/rootanikacnc/</guid><description>&lt;h1 id="rootanika">Rootanika&lt;/h1>
-&lt;p>Rootanika is a fusion project between the open-source CNC machines of &lt;strong>Root CNC&lt;/strong> and &lt;strong>Mekanika CNC&lt;/strong>. The goal is to combine the best of both worlds into a modular, accessible, and powerful CNC machine for makers, hobbyists, and small workshops.&lt;/p>
-&lt;h2 id="project-goals">Project Goals&lt;/h2>
-&lt;ul>
-&lt;li>Combine the rigidity and strength of Root CNC with the user-friendly design and clean aesthetics of Mekanika CNC.&lt;/li>
-&lt;li>Design a fully customizable, belt-driven machine with a focus on reusable and accessible components.&lt;/li>
-&lt;li>Keep the target cost around €800 (excluding spindle and spoilboard), making it affordable without compromising performance.&lt;/li>
-&lt;li>Document everything open-source following the principles of both original projects.&lt;/li>
-&lt;/ul>
-&lt;h2 id="licensing">Licensing&lt;/h2>
-&lt;p>Rootanika follows the &lt;strong>Creative Commons BY-NC-SA 4.0&lt;/strong> license, same as its sources. This means:&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mekanika CNC on Wood 'n Fab</title><link>https://example.org/tags/mekanika-cnc/</link><description>Recent content in Mekanika CNC on Wood 'n Fab</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 28 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/mekanika-cnc/index.xml" rel="self" type="application/rss+xml"/><item><title>Rootanika</title><link>https://example.org/memo/rootanikacnc/</link><pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate><guid>https://example.org/memo/rootanikacnc/</guid><description>&lt;h1 id="rootanika"&gt;Rootanika&lt;/h1&gt;
+&lt;p&gt;Rootanika is a fusion project between the open-source CNC machines of &lt;strong&gt;Root CNC&lt;/strong&gt; and &lt;strong&gt;Mekanika CNC&lt;/strong&gt;. The goal is to combine the best of both worlds into a modular, accessible, and powerful CNC machine for makers, hobbyists, and small workshops.&lt;/p&gt;
+&lt;h2 id="project-goals"&gt;Project Goals&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Combine the rigidity and strength of Root CNC with the user-friendly design and clean aesthetics of Mekanika CNC.&lt;/li&gt;
+&lt;li&gt;Design a fully customizable, belt-driven machine with a focus on reusable and accessible components.&lt;/li&gt;
+&lt;li&gt;Keep the target cost around €800 (excluding spindle and spoilboard), making it affordable without compromising performance.&lt;/li&gt;
+&lt;li&gt;Document everything open-source following the principles of both original projects.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="licensing"&gt;Licensing&lt;/h2&gt;
+&lt;p&gt;Rootanika follows the &lt;strong&gt;Creative Commons BY-NC-SA 4.0&lt;/strong&gt; license, same as its sources. This means:&lt;/p&gt;</description></item></channel></rss>

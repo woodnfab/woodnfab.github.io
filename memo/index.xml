@@ -1,56 +1,58 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Memo on Wood 'n Fab</title><link>https://example.org/memo/</link><description>Recent content in Memo on Wood 'n Fab</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 28 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/memo/index.xml" rel="self" type="application/rss+xml"/><item><title>Rootanika</title><link>https://example.org/memo/rootanikacnc/</link><pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate><guid>https://example.org/memo/rootanikacnc/</guid><description>&lt;h1 id="rootanika">Rootanika&lt;/h1>
-&lt;p>Rootanika is a fusion project between the open-source CNC machines of &lt;strong>Root CNC&lt;/strong> and &lt;strong>Mekanika CNC&lt;/strong>. The goal is to combine the best of both worlds into a modular, accessible, and powerful CNC machine for makers, hobbyists, and small workshops.&lt;/p>
-&lt;h2 id="project-goals">Project Goals&lt;/h2>
-&lt;ul>
-&lt;li>Combine the rigidity and strength of Root CNC with the user-friendly design and clean aesthetics of Mekanika CNC.&lt;/li>
-&lt;li>Design a fully customizable, belt-driven machine with a focus on reusable and accessible components.&lt;/li>
-&lt;li>Keep the target cost around €800 (excluding spindle and spoilboard), making it affordable without compromising performance.&lt;/li>
-&lt;li>Document everything open-source following the principles of both original projects.&lt;/li>
-&lt;/ul>
-&lt;h2 id="licensing">Licensing&lt;/h2>
-&lt;p>Rootanika follows the &lt;strong>Creative Commons BY-NC-SA 4.0&lt;/strong> license, same as its sources. This means:&lt;/p></description></item><item><title>Air Compressor</title><link>https://example.org/memo/compressor/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/memo/compressor/</guid><description>&lt;p>I don&amp;rsquo;t own an air compressor yet, but I consider it an essential tool for any workshop.&lt;br>
-Below is a short overview of useful information and models I’ve found so far.&lt;/p>
-&lt;hr>
-&lt;h3 id="-general-information">📚 General Information&lt;/h3>
-&lt;h4 id="agriworldnl---2022---fluistercompressortest--de-beste-stille-compressor-stil-in-vergelijking">agriworld.nl - 2022 - Fluistercompressortest – De beste stille compressor stil in vergelijking&lt;/h4>
-&lt;p>&lt;a href="https://agriworld.nl/fluistercompressortest-de-beste-stille-compressor-stil-in-vergelijking/">https://agriworld.nl/fluistercompressortest-de-beste-stille-compressor-stil-in-vergelijking/&lt;/a>&lt;/p>
-&lt;h4 id="takkezooinl---beste-draagbare-compressor-">takkezooi.nl - Beste Draagbare Compressor ?!&lt;/h4>
-&lt;p>&lt;a href="https://www.takkezooi.nl/beste-draagbare-compressor/">https://www.takkezooi.nl/beste-draagbare-compressor/&lt;/a>&lt;/p>
-&lt;h4 id="woodworkingnl---te-koop-airpress-l6-105-silent--ecotools-bradtacker-7902">woodworking.nl - Te koop Airpress l6 105 silent + Ecotools Bradtacker 7902&lt;/h4>
-&lt;p>&lt;a href="https://www.woodworking.nl/threads/te-koop-airpress-l6-105-silent-ecotools-bradtacker-7902.44091/">https://www.woodworking.nl/threads/te-koop-airpress-l6-105-silent-ecotools-bradtacker-7902.44091/&lt;/a>&lt;br>
-&lt;em>Just here as a reference.&lt;/em>&lt;/p></description></item><item><title>Collection of 3d print</title><link>https://example.org/memo/3d/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/memo/3d/</guid><description>&lt;p>XT60 Male Plug Sleeve&lt;/p>
-&lt;p>&lt;a href="https://www.thingiverse.com/thing:7092560">https://www.thingiverse.com/thing:7092560&lt;/a>&lt;/p></description></item><item><title>Compound Slide Table</title><link>https://example.org/memo/slidetable/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/memo/slidetable/</guid><description>&lt;p>I once bought a cheap &lt;strong>compound slide table&lt;/strong> via &lt;a href="https://www.marktplaats.nl">marktplaats.nl&lt;/a> (a large second-hand website in the Netherlands).&lt;br>
-This particular one was branded &lt;strong>HBM&lt;/strong>, which is a well-known tool supplier in the Netherlands.&lt;/p>
-&lt;p>🔧 I originally wanted to use it with a column drill, or even something like a Dremel, for more precise drilling.&lt;/p>
-&lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 330px">
-&lt;img class="card-img-top" src="https://example.org/memo/slidetable/HBM_hu_79f40ede246e4ac0.jpg" width="320" height="240">
-&lt;figcaption class="card-body px-0 pt-2 pb-0">
-&lt;p class="card-text">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Memo on Wood 'n Fab</title><link>https://example.org/memo/</link><description>Recent content in Memo on Wood 'n Fab</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 28 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/memo/index.xml" rel="self" type="application/rss+xml"/><item><title>Rootanika</title><link>https://example.org/memo/rootanikacnc/</link><pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate><guid>https://example.org/memo/rootanikacnc/</guid><description>&lt;h1 id="rootanika"&gt;Rootanika&lt;/h1&gt;
+&lt;p&gt;Rootanika is a fusion project between the open-source CNC machines of &lt;strong&gt;Root CNC&lt;/strong&gt; and &lt;strong&gt;Mekanika CNC&lt;/strong&gt;. The goal is to combine the best of both worlds into a modular, accessible, and powerful CNC machine for makers, hobbyists, and small workshops.&lt;/p&gt;
+&lt;h2 id="project-goals"&gt;Project Goals&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Combine the rigidity and strength of Root CNC with the user-friendly design and clean aesthetics of Mekanika CNC.&lt;/li&gt;
+&lt;li&gt;Design a fully customizable, belt-driven machine with a focus on reusable and accessible components.&lt;/li&gt;
+&lt;li&gt;Keep the target cost around €800 (excluding spindle and spoilboard), making it affordable without compromising performance.&lt;/li&gt;
+&lt;li&gt;Document everything open-source following the principles of both original projects.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="licensing"&gt;Licensing&lt;/h2&gt;
+&lt;p&gt;Rootanika follows the &lt;strong&gt;Creative Commons BY-NC-SA 4.0&lt;/strong&gt; license, same as its sources. This means:&lt;/p&gt;</description></item><item><title>Air Compressor</title><link>https://example.org/memo/compressor/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/memo/compressor/</guid><description>&lt;p&gt;I don&amp;rsquo;t own an air compressor yet, but I consider it an essential tool for any workshop.&lt;br&gt;
+Below is a short overview of useful information, tests, and models I’ve found so far.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="-youtube---quietest--fastest-compressor-ever-tested"&gt;🎥 YouTube - Quietest &amp;amp; Fastest Compressor Ever Tested!&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=a3hMRQZudiE"&gt;https://www.youtube.com/watch?v=a3hMRQZudiE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This video creates an overview of small compressors. It also shows that selecting the right one is not easy.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Top three models mentioned:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;DeWalt&lt;/li&gt;
+&lt;li&gt;Husky&lt;/li&gt;
+&lt;li&gt;Fornax&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;👉 What I find strange: the DeWalt compressor doesn’t seem to have an intake air filter (or at least, I couldn’t find it in the manual).&lt;/p&gt;</description></item><item><title>Collection of 3d print</title><link>https://example.org/memo/3d/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/memo/3d/</guid><description>&lt;p&gt;XT60 Male Plug Sleeve&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.thingiverse.com/thing:7092560"&gt;https://www.thingiverse.com/thing:7092560&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Compound Slide Table</title><link>https://example.org/memo/slidetable/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/memo/slidetable/</guid><description>&lt;p&gt;I once bought a cheap &lt;strong&gt;compound slide table&lt;/strong&gt; via &lt;a href="https://www.marktplaats.nl"&gt;marktplaats.nl&lt;/a&gt; (a large second-hand website in the Netherlands).&lt;br&gt;
+This particular one was branded &lt;strong&gt;HBM&lt;/strong&gt;, which is a well-known tool supplier in the Netherlands.&lt;/p&gt;
+&lt;p&gt;🔧 I originally wanted to use it with a column drill, or even something like a Dremel, for more precise drilling.&lt;/p&gt;
+&lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 330px"&gt;
+&lt;img class="card-img-top" src="https://example.org/memo/slidetable/HBM_hu_79f40ede246e4ac0.jpg" width="320" height="240"&gt;
+&lt;figcaption class="card-body px-0 pt-2 pb-0"&gt;
+&lt;p class="card-text"&gt;
 
 
 
-&lt;/p>
-&lt;/figcaption>
-&lt;/figure>
+&lt;/p&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-&lt;p>⚠️ However, it felt too flimsy, so I started looking for sturdier versions. Luckily, there are several models available, with prices ranging from &lt;strong>€30 to about €100&lt;/strong>.&lt;/p></description></item><item><title>Electronic casings</title><link>https://example.org/memo/boxdesign/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/memo/boxdesign/</guid><description>&lt;p>One of things i want to have more experience with 3d printing is to better manufacter and also created electronix boxes.&lt;/p>
-&lt;hr>
-&lt;h3 id="-the-ultimate-box-maker">📌 The Ultimate Box Maker&lt;/h3>
-&lt;p>&lt;a href="https://www.thingiverse.com/thing:1264391">Thingiverse – Box Maker&lt;/a>&lt;/p></description></item><item><title>My ROOT CNC</title><link>https://example.org/memo/myrootcnc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/memo/myrootcnc/</guid><description>&lt;p>I recently bought a used ROOT CNC machine on the local marketplace.&lt;br>
-It needs some repairs — a few parts are broken — and it looks like the previous owner made some modifications.&lt;/p>
-&lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 310px">
-&lt;img class="card-img-top" src="https://example.org/memo/myrootcnc/featured-root_hu_33bd3fd66b5ea3ea.jpg" width="300" height="225">
-&lt;figcaption class="card-body px-0 pt-2 pb-0">
-&lt;p class="card-text">
+&lt;p&gt;⚠️ However, it felt too flimsy, so I started looking for sturdier versions. Luckily, there are several models available, with prices ranging from &lt;strong&gt;€30 to about €100&lt;/strong&gt;.&lt;/p&gt;</description></item><item><title>Electronic casings</title><link>https://example.org/memo/boxdesign/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/memo/boxdesign/</guid><description>&lt;p&gt;One of things i want to have more experience with 3d printing is to better manufacter and also created electronix boxes.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="-the-ultimate-box-maker"&gt;📌 The Ultimate Box Maker&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://www.thingiverse.com/thing:1264391"&gt;Thingiverse – Box Maker&lt;/a&gt;&lt;/p&gt;</description></item><item><title>My ROOT CNC</title><link>https://example.org/memo/myrootcnc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/memo/myrootcnc/</guid><description>&lt;p&gt;I recently bought a used ROOT CNC machine on the local marketplace.&lt;br&gt;
+It needs some repairs — a few parts are broken — and it looks like the previous owner made some modifications.&lt;/p&gt;
+&lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 310px"&gt;
+&lt;img class="card-img-top" src="https://example.org/memo/myrootcnc/featured-root_hu_33bd3fd66b5ea3ea.jpg" width="300" height="225"&gt;
+&lt;figcaption class="card-body px-0 pt-2 pb-0"&gt;
+&lt;p class="card-text"&gt;
 
 
 
-&lt;/p>
-&lt;/figcaption>
-&lt;/figure>
+&lt;/p&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-&lt;p>This memo is a place to collect reference links and notes related to this machine.&lt;/p>
-&lt;hr>
-&lt;h3 id="-3d-printed-parts">🧩 3D Printed Parts&lt;/h3>
-&lt;h4 id="-z-carriage-system-for-root-3-cnc-or-similar-machines">📌 Z-Carriage System for ROOT 3 CNC (or similar machines)&lt;/h4>
-&lt;p>&lt;a href="https://www.thingiverse.com/thing:2778538">Thingiverse – Carriage Z System for 52mm &amp;amp; 65mm Spindle (in progress)&lt;/a>&lt;/p></description></item></channel></rss>
+&lt;p&gt;This memo is a place to collect reference links and notes related to this machine.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="-3d-printed-parts"&gt;🧩 3D Printed Parts&lt;/h3&gt;
+&lt;h4 id="-z-carriage-system-for-root-3-cnc-or-similar-machines"&gt;📌 Z-Carriage System for ROOT 3 CNC (or similar machines)&lt;/h4&gt;
+&lt;p&gt;&lt;a href="https://www.thingiverse.com/thing:2778538"&gt;Thingiverse – Carriage Z System for 52mm &amp;amp; 65mm Spindle (in progress)&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>
